@@ -1,25 +1,16 @@
 # Hi, I'm Rodrigo  
 **Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
+<div style="display: flex; justify-content: center; width: 80%; overflow: hidden; margin: 0 auto;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4enhyN2cwZjFvYXI4NDRjcmU3MGQzcHo1ZTBkdnJlem9rNTExdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzId7vT7YOUzm/giphy.webp" style="width: 20%; height: 150px; object-fit: cover;">
+    <img src="https://i.giphy.com/xUOxfpptIctnLn7IMo.webp" style="width: 20%; height: 150px; object-fit: cover;">
+    <img src="https://i.giphy.com/zyclIRxMwlY40.webp" style="width: 20%; height: 150px; object-fit: cover;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s2eHU1ejN1dnl3ODJ4MjlqbHZnNWJxdzBscHJsc2Y5ajZscWtqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy.webp" style="width: 20%; height: 150px; object-fit: cover;">
+    <img src="https://i.giphy.com/3o85xGocUH8RYoDKKs.webp" style="width: 20%; height: 150px; object-fit: cover;">
+</div>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)     ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
----
-
-### Wanna find me? EZE!!
-
-<p align="center">
-  <a href="mailto:rodrigo.dantas@hustletech.dev"><img src="https://img.icons8.com/color/32/000000/email.png" alt="Email"></a>
-  <a href="https://www.instagram.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"></a>
-  <a href="https://twitter.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://github.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/napalm23zero"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@napalm23zero"><img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"></a>
-  <a href="https://discord.com/users/napalm23zero"><img src="https://img.icons8.com/color/32/000000/discord-logo.png" alt="Discord"></a>
-  <a href="https://steamcommunity.com/id/napalm23zero"><img src="https://img.icons8.com/color/32/000000/steam.png" alt="Steam"></a>
-  <a href="https://open.spotify.com/user/22shqo6vu5mqvdgwxi66gawta"><img src="https://img.icons8.com/color/32/000000/spotify.png" alt="Spotify"></a>
-  <a href="https://www.youtube.com/@napalm23zero"><img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/napalm23zero"><img src="https://img.icons8.com/color/32/000000/twitch.png" alt="Twitch"></a>
-</p>
 
 ### Things I like to play with:
 <p align="center">
@@ -70,34 +61,34 @@
 
 ### Articles and Chalenges:
 <p align="center">
-  <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://dev.to/napalm23zero"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://www.hackerrank.com/profile/napalm23zero"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat&logo=codewars&logoColor=white" alt="CodeWars"></a>
-  <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=flat&logo=exercism&logoColor=white" alt="Exercism"></a>
-  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=flat&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
-  <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+  <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/napalm23zero"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.hackerrank.com/profile/napalm23zero"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars"></a>
+  <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=flat-square&logo=exercism&logoColor=white" alt="Exercism"></a>
+  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=flat-square&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
+  <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
 
 ---
 
-### Check these out:
+### Cool links:
 
 <h3>
 <ul>
   <li>
     <p>
-      <img src="https://img.icons8.com/emoji/16/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
+      <img src="https://img.icons8.com/emoji/24/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
       <a href="docs/resume.md">Resume</a>
     </p>
   </li>
   <li>
     <p>
-      <img src="https://img.icons8.com/color/16/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> Take a look at my 
+      <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> Take a look at my 
       <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template">Ultimate NEST Template</a>
     </p>
   </li>
@@ -150,5 +141,28 @@
 🐱 StackOverflow Visits     700 visits        ████░░░░░░░░░░░░░░░░░░░░░
 🤬 Raging at Bugs           666 meltdowns     ███░░░░░░░░░░░░░░░░░░░░░░
 ```
+---
+
+### Wanna find me? EZE!!
+
+<p align="center" style="margin-bottom: 20px;">
+  <a href="mailto:rodrigo.dantas@hustletech.dev" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/email.png" alt="Email"></a>
+  <a href="https://www.instagram.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="https://twitter.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://github.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"></a>
+  <a href="https://discord.com/users/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/discord-logo.png" alt="Discord"></a>
+  <a href="https://steamcommunity.com/id/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/steam.png" alt="Steam"></a>
+  <a href="https://open.spotify.com/user/22shqo6vu5mqvdgwxi66gawta" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/spotify.png" alt="Spotify"></a>
+  <a href="https://www.youtube.com/@napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/twitch.png" alt="Twitch"></a>
+</p>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/color/24/000000/google-calendar--v2.png" alt="Google Calendar Icon" style="vertical-align: middle;"/> 
+  <a href="https://calendar.app.google/ovSnBAqvXtRztvsd7">Schedule a meeting with me on Google Calendar</a>
+</h3>
+
 ---
 Let’s build something great together!
