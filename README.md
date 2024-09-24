@@ -14,50 +14,51 @@
 
 ### Things I like to play with:
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white" />
-  <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="Quarkus" src="https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="CakePHP" src="https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-  <img alt="SAP R/3" src="https://img.shields.io/badge/-SAP_R%2F3-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
-  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-0040FF?style=flat-square&logo=nmap&logoColor=white" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-0579C3?style=flat-square&logo=metasploit&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
-  <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=esp32&logoColor=white" />
-  <img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" />
+  <a href="https://www.oracle.com/java/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://www.ruby-lang.org/" target="_blank"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" /></a>
+  <a href="https://www.php.net/" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /></a>
+  <a href="https://groovy-lang.org/" target="_blank"><img alt="Groovy" src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white" /></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" /></a>
+  <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /></a>
+  <a href="https://quarkus.io/" target="_blank"><img alt="Quarkus" src="https://img.shields.io/badge/-Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" /></a>
+  <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
+  <a href="https://cakephp.org/" target="_blank"><img alt="CakePHP" src="https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" /></a>
+  <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img alt="OracleDB" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img alt="GCP" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" /></a>
+  <a href="https://www.sap.com/products/erp.html" target="_blank"><img alt="SAP R/3" src="https://img.shields.io/badge/-SAP_R%2F3-0FAAFF?style=flat-square&logo=sap&logoColor=white" /></a>
+  <a href="https://swagger.io/" target="_blank"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://www.debian.org/" target="_blank"><img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /></a>
+  <a href="https://archlinux.org/" target="_blank"><img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
+  <a href="https://getfedora.org/" target="_blank"><img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" /></a>
+  <a href="https://www.kali.org/" target="_blank"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /></a>
+  <a href="https://nmap.org/" target="_blank"><img alt="Nmap" src="https://img.shields.io/badge/-Nmap-0040FF?style=flat-square&logo=nmap&logoColor=white" /></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-0579C3?style=flat-square&logo=metasploit&logoColor=white" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" /></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=esp32&logoColor=white" /></a>
+  <a href="https://www.microchip.com/" target="_blank"><img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" /></a>
 </p>
+
 
 ### Articles and Chalenges:
 <p align="center">
