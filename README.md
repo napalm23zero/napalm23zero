@@ -5,6 +5,22 @@
 
 ---
 
+### Wanna find me? EZE!!
+
+<p align="center">
+  <a href="mailto:rodrigo.dantas@hustletech.dev"><img src="https://img.icons8.com/color/32/000000/email.png" alt="Email"></a>
+  <a href="https://www.instagram.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="https://twitter.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://github.com/napalm23zero"><img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/napalm23zero"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@napalm23zero"><img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"></a>
+  <a href="https://discord.com/users/napalm23zero"><img src="https://img.icons8.com/color/32/000000/discord-logo.png" alt="Discord"></a>
+  <a href="https://steamcommunity.com/id/napalm23zero"><img src="https://img.icons8.com/color/32/000000/steam.png" alt="Steam"></a>
+  <a href="https://open.spotify.com/user/22shqo6vu5mqvdgwxi66gawta"><img src="https://img.icons8.com/color/32/000000/spotify.png" alt="Spotify"></a>
+  <a href="https://www.youtube.com/@napalm23zero"><img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/napalm23zero"><img src="https://img.icons8.com/color/32/000000/twitch.png" alt="Twitch"></a>
+</p>
+
 ### Things I like to play with:
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -52,10 +68,26 @@
   <img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" />
 </p>
 
+### Articles and Chalenges:
+<p align="center">
+  <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/napalm23zero"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.hackerrank.com/profile/napalm23zero"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat&logo=codewars&logoColor=white" alt="CodeWars"></a>
+  <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=flat&logo=exercism&logoColor=white" alt="Exercism"></a>
+  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=flat&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
+  <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+</p>
+
+
 ---
 
 ### Check these out:
 
+<h3>
 <ul>
   <li>
     <p>
@@ -70,6 +102,7 @@
     </p>
   </li>
 </ul>
+<h3>
 
 ---
 
@@ -82,70 +115,40 @@
 🌙 Night                  2428 commits        ██████████░░░░░░░░░░░░░░░   23.53 %
 ```
 ```text
-☕ Java                    3278 commits       ████████████████░░░░░░░░░░   25.34 %
-🟦 Typescript              2650 commits       ████████████░░░░░░░░░░░░░░   20.48 %
-🟨 Javascript              2219 commits       ███████████░░░░░░░░░░░░░░░   17.15 %
-🐍 Python                  1574 commits       █████████░░░░░░░░░░░░░░░░░   12.16 %
-📊 SQL                     1098 commits       ██████░░░░░░░░░░░░░░░░░░░   08.48 %
-🐚 Bash                    743 commits        ████░░░░░░░░░░░░░░░░░░░░░   05.74 %
-💻 C++                     603 commits        ███░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-📂 NoSQL                   512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-🐳 Dockerfile              464 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-📝 Markdown                450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-📄 YAML                    422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-🔣 Haskell                 363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-💎 Ruby                    294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-🐘 PHP                     242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-🔮 Scala                   208 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+☕ Java                    3278 commits       ████████████████░░░░░░░░░░  25.34 % 
+🟦 Typescript              2650 commits       ████████████░░░░░░░░░░░░░░  20.48 % 
+🟨 Javascript              2219 commits       ███████████░░░░░░░░░░░░░░░  17.15 % 
+🐍 Python                  1574 commits       █████████░░░░░░░░░░░░░░░░░  12.16 % 
+📊 SQL                     1098 commits       ██████░░░░░░░░░░░░░░░░░░░   08.48 % 
+🐚 Bash                    743 commits        ████░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+💻 C++                     603 commits        ███░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+📂 NoSQL                   512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+🐳 Dockerfile              464 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+📝 Markdown                450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+📄 YAML                    422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🔣 Haskell                 363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+💎 Ruby                    294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+🐘 PHP                     242 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+🔮 Scala                   208 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 📉 R                       157 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+```
+```text
+📝 VSCode                  8921 hours         ███████████████████████░░░   87.00 %
+⌨️  Nano                   943 hours          ███░░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+🖋️  Vim                    312 hours          ██░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+🧠 Emacs                   124 hours          █░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 ```text
 🐧 Linux                  6437 hours         ████████████████████████░░   64.21 % 
 🪟 Windows                2049 hours         █████████░░░░░░░░░░░░░░░░░   20.44 % 
-🍏 Mac                    1563 hours         ██████░░░░░░░░░░░░░░░░░░░   15.35 %
+🍏 Mac                    1563 hours         ██████░░░░░░░░░░░░░░░░░░░░   15.35 %
 ```
 ```text
-⚡ Coffee Intake           9000 cups          █████████████████████████   90.00 % 
-🎮 Gaming Breaks           8500 hours         ██████████████████████░░░   85.00 % 
-💤 Sleep Deprivation       5000 hours         ███████████░░░░░░░░░░░░░░   50.00 % 
-🐱 StackOverflow Visits    700 visits         ████░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🤬 Raging at Bugs          666 meltdowns      ███░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+⚡ Coffee Intake            9000 cups         █████████████████████████
+🎮 Gaming Breaks            8500 hours        ██████████████████████░░░
+💤 Sleep Deprivation        5000 hours        ███████████░░░░░░░░░░░░░░
+🐱 StackOverflow Visits     700 visits        ████░░░░░░░░░░░░░░░░░░░░░
+🤬 Raging at Bugs           666 meltdowns     ███░░░░░░░░░░░░░░░░░░░░░░
 ```
-
 ---
-
-### What I'm doing:
-<p align="center">
-  <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://dev.to/napalm23zero"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://www.hackerrank.com/profile/napalm23zero"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars"></a>
-  <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"></a>
-  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=for-the-badge&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
-  <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-  <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-</p>
-
----
-
-### Wanna talk? **Contact me:**
-
-<p align="center">
-  <a href="mailto:rodrigo.dantas@hustletech.dev"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"></a>
-  <a href="https://www.instagram.com/napalm23zero"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
-  <a href="https://twitter.com/napalm23zero"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://github.com/napalm23zero"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/napalm23zero"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@napalm23zero"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"></a>
-  <a href="https://discord.com/users/napalm23zero"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
-  <a href="https://steamcommunity.com/id/napalm23zero"><img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam"></a>
-  <a href="https://open.spotify.com/user/22shqo6vu5mqvdgwxi66gawta"><img src="https://img.icons8.com/color/48/000000/spotify.png" alt="Spotify"></a>
-  <a href="https://www.youtube.com/@napalm23zero"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/napalm23zero"><img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch"></a>
-</p>
-
----
-
-I'm here to help, so don't hesitate to contact me via email or any of my social networks. Let’s build something great together!
+Let’s build something great together!
