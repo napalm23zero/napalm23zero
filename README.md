@@ -1,20 +1,12 @@
 # Hi, I'm Rodrigo  
 **Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="https://open.spotify.com/track/0lLB1XhVvo0vzxPDh4SEmn" target="_blank">
-    <img height="75" src="https://i.scdn.co/image/ab67616d00001e025f1d12c08c5613b1aa156c2a" alt="Paranoid - Ozzy Osbourne Album Art"/>
-  </a><br/>
-</p>
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue) | ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+---
 
 ### Things I like to play with:
-<p>
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
@@ -64,8 +56,20 @@
 
 ### Check these out:
 
-- <img src="https://img.icons8.com/color/16/000000/resume.png" alt="Resume Icon"> Check my [Resume](docs/resume.md)
-- <img src="https://img.icons8.com/color/16/000000/nestjs.png" alt="NestJS Icon"> Take a look at my [Ultimate NEST Template](https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template)
+<ul>
+  <li>
+    <p>
+      <img src="https://img.icons8.com/emoji/16/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
+      <a href="docs/resume.md">Resume</a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <img src="https://img.icons8.com/color/16/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> Take a look at my 
+      <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template">Ultimate NEST Template</a>
+    </p>
+  </li>
+</ul>
 
 ---
 
@@ -83,12 +87,11 @@
   <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
-
 ---
 
 ### Wanna talk? **Contact me:**
 
-<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<p align="center">
   <a href="mailto:rodrigo.dantas@hustletech.dev"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"></a>
   <a href="https://www.instagram.com/napalm23zero"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
   <a href="https://twitter.com/napalm23zero"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"></a>
