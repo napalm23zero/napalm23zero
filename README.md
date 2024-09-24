@@ -1,7 +1,19 @@
 # Hi, I'm Rodrigo  
-**Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd**  
+**Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
-Things I like to play with
+<p>
+  🎶Now playing ...🎶<br/>
+  <a href="https://open.spotify.com/track/0lLB1XhVvo0vzxPDh4SEmn" target="_blank">
+    <img height="75" src="https://i.scdn.co/image/ab67616d00001e025f1d12c08c5613b1aa156c2a" alt="Paranoid - Ozzy Osbourne Album Art"/>
+  </a><br/>
+</p>
+
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+
+### Things I like to play with:
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -34,21 +46,45 @@ Things I like to play with
   <img alt="SAP R/3" src="https://img.shields.io/badge/-SAP_R%2F3-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
- <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
   <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-    <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-0040FF?style=flat-square&logo=nmap&logoColor=white" />
+  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-0040FF?style=flat-square&logo=nmap&logoColor=white" />
   <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
   <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-0579C3?style=flat-square&logo=metasploit&logoColor=white" />
- <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
   <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=esp32&logoColor=white" />
   <img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" />
 </p>
 
-### Want to check my experience? <br> Here's my [Resume](docs/resume.md)
+---
+
+### Check these out:
+
+- <img src="https://img.icons8.com/color/16/000000/resume.png" alt="Resume Icon"> Check my [Resume](docs/resume.md)
+- <img src="https://img.icons8.com/color/16/000000/nestjs.png" alt="NestJS Icon"> Take a look at my [Ultimate NEST Template](https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template)
+
+---
+
+### What I'm doing:
+<p align="center">
+  <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://dev.to/napalm23zero"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
+  <a href="https://www.hackerrank.com/profile/napalm23zero"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars"></a>
+  <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"></a>
+  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=for-the-badge&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
+  <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+</p>
+
+
+---
 
 ### Wanna talk? **Contact me:**
 
@@ -66,5 +102,6 @@ Things I like to play with
   <a href="https://www.twitch.tv/napalm23zero"><img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch"></a>
 </p>
 
+---
 
 I'm here to help, so don't hesitate to contact me via email or any of my social networks. Let’s build something great together!
