@@ -2,11 +2,10 @@
 **Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
 <div style="display: flex; justify-content: center; width: 80%; overflow: hidden; margin: 0 auto;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4enhyN2cwZjFvYXI4NDRjcmU3MGQzcHo1ZTBkdnJlem9rNTExdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzId7vT7YOUzm/giphy.webp" style="width: 20%; height: 150px; object-fit: cover;">
-    <img src="https://i.giphy.com/xUOxfpptIctnLn7IMo.webp" style="width: 20%; height: 150px; object-fit: cover;">
-    <img src="https://i.giphy.com/zyclIRxMwlY40.webp" style="width: 20%; height: 150px; object-fit: cover;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s2eHU1ejN1dnl3ODJ4MjlqbHZnNWJxdzBscHJsc2Y5ajZscWtqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy.webp" style="width: 20%; height: 150px; object-fit: cover;">
-    <img src="https://i.giphy.com/3o85xGocUH8RYoDKKs.webp" style="width: 20%; height: 150px; object-fit: cover;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU4enhyN2cwZjFvYXI4NDRjcmU3MGQzcHo1ZTBkdnJlem9rNTExdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MzId7vT7YOUzm/giphy.webp" style="width: 25%; height: 150px; object-fit: cover;">
+    <img src="https://i.giphy.com/xUOxfpptIctnLn7IMo.webp" style="width: 25%; height: 150px; object-fit: cover;">
+    <img src="https://i.giphy.com/zyclIRxMwlY40.webp" style="width: 25%; height: 150px; object-fit: cover;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s2eHU1ejN1dnl3ODJ4MjlqbHZnNWJxdzBscHJsc2Y5ajZscWtqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QbumCX9HFFDQA/giphy.webp" style="width: 25%; height: 150px; object-fit: cover;">
 </div>
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)     ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
