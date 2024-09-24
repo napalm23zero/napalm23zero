@@ -72,21 +72,22 @@
 ### Cool links:
 
 <h4>
-<ul>
-  <li>
-    <p>
-      <img src="https://img.icons8.com/emoji/24/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
-      <a href="docs/resume.md">Resume</a>
-    </p>
-  </li>
-  <li>
-    <p>
-      <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> Take a look at my 
-      <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template">Ultimate NEST Template</a>
-    </p>
-  </li>
-</ul>
-<h4>
+  <ul>
+    <li>
+      <p>
+        <img src="https://img.icons8.com/emoji/24/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> 
+        <a href="docs/resume.md" style="vertical-align: middle;">Check my Resume</a>
+      </p>
+    </li>
+    <li>
+      <p>
+        <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> 
+        <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template" style="vertical-align: middle;">Take a look at my Ultimate NEST Template</a>
+      </p>
+    </li>
+  </ul>
+</h4>
+
 
 ---
 
