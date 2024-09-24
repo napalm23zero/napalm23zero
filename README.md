@@ -70,7 +70,7 @@
 
 <p>
   <img src="https://img.icons8.com/emoji/18/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
-  <a href="docs/resume.md" style="vertical-align: middle;">Resume</a>
+  <a href="docs/resume.md" style="vertical-align: middle;">experience</a>
   <br>
   <img src="https://img.icons8.com/color/18/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> 
   Take a look at my  <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template" style="vertical-align: middle;">Ultimate NEST Template</a>
