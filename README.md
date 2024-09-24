@@ -3,7 +3,6 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)     ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
-
 ### Things I like to play with:
 <p align="center">
   <a href="https://www.oracle.com/java/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
@@ -51,7 +50,6 @@
   <a href="https://www.microchip.com/" target="_blank"><img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" /></a>
 </p>
 
-
 ### Articles and Chalenges:
 <p align="center">
   <a href="https://medium.com/@napalm23zero"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
@@ -66,28 +64,20 @@
   <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
-
 ---
 
 ### Cool links:
 
 <h4>
-  <ul>
-    <li>
-      <p>
-        <img src="https://img.icons8.com/emoji/24/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> 
-        <a href="docs/resume.md" style="vertical-align: middle;">Check my Resume</a>
-      </p>
-    </li>
-    <li>
-      <p>
-        <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> 
-        <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template" style="vertical-align: middle;">Take a look at my Ultimate NEST Template</a>
-      </p>
-    </li>
-  </ul>
+  <p>
+    <img src="https://img.icons8.com/emoji/24/000000/star-emoji.png" alt="Star Emoji Icon" style="vertical-align: middle;"/> Check my 
+    <a href="docs/resume.md" style="vertical-align: middle;">Resume</a>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS Icon" style="vertical-align: middle;"/> 
+    Take a look at my  <a href="https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template" style="vertical-align: middle;">Ultimate NEST Template</a>
+  </p>
 </h4>
-
 
 ---
 
@@ -135,6 +125,7 @@
 🐱 StackOverflow Visits     700 visits        ████░░░░░░░░░░░░░░░░░░░░░
 🤬 Raging at Bugs           666 meltdowns     ███░░░░░░░░░░░░░░░░░░░░░░
 ```
+
 ---
 
 ### Wanna find me? EZE!!
@@ -159,4 +150,5 @@
 </h3>
 
 ---
+
 Let’s build something great together!
