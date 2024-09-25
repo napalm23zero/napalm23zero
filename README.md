@@ -1,7 +1,11 @@
-# Hi, I'm Rodrigo  
+# Hi, I'm Rodrigo 👋
 **Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
+---
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C478%20hrs%2041%20mins-blue)     ![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+
+---
 
 #### Things I like to play with:
 <p align="center">
@@ -49,6 +53,8 @@
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img alt="ESP32" src="https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=esp32&logoColor=white" /></a>
   <a href="https://www.microchip.com/" target="_blank"><img alt="Microchip" src="https://img.shields.io/badge/-Microchip-CC0000?style=flat-square&logo=microchip&logoColor=white" /></a>
 </p>
+
+---
 
 #### Articles and Chalenges:
 <p align="center">
