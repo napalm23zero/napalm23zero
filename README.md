@@ -68,7 +68,7 @@
 
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer;">
-    👉 Click to view my full resume 👇
+    👉 Click to view my full resume
   </summary>
 <br>
 
