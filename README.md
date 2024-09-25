@@ -64,7 +64,6 @@
   <a href="https://leetcode.com/u/napalm23zero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.codewars.com/users/napalm23zero"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="CodeWars"></a>
   <a href="https://exercism.org/napalm23zero"><img src="https://img.shields.io/badge/Exercism-1F8ACB?style=flat-square&logo=exercism&logoColor=white" alt="Exercism"></a>
-  <a href="https://www.kaggle.com/napalm23zero"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://www.interviewbit.com/profile/rodrigo-dantas/"><img src="https://img.shields.io/badge/InterviewBit-1E4159?style=flat-square&logo=interviewbit&logoColor=white" alt="InterviewBit"></a>
   <a href="https://codeforces.com/profile/napalm23zero"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://www.geeksforgeeks.org/user/napalm23zero/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
