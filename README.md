@@ -92,93 +92,93 @@
 
 ## Professional Experience
 
-### Senior Software Engineer  
-**KIS Solutions (Remote)** - *Aug 2022 ~ Jul 2024*  
-- Engineered high-performance software using **Java**, **Angular**, and **Python**, delivering scalable, enterprise-level solutions.
-- Seamlessly integrated hardware with software, ensuring end-to-end functionality across backend and frontend systems.
+## Experience
 
-### Backend Software Developer  
-**300Devs (Remote)** - *Sep 2023 ~ Feb 2024*  
-- Designed and implemented backend systems using **PHP**, **AWS**, and **Swagger**, optimizing performance for cloud-based platforms.
-- Contributed to system scalability in a remote, fast-paced environment.
+### <span style="color:#268bd2;">Senior Software Engineer</span>  
+**<span style="color:#859900;">KIS Solutions</span>** (Remote) - *<span style="color:#b58900;">Aug 2022 ~ Jul 2024</span>*  
+- Developed software using **Java 8/11/13/17**, **Angular 8/9/15**, and **Python**.  
+- Integrated hardware and software for seamless functionality across backend and frontend systems.
 
-### Software Engineer  
-**Metal Toad (Remote)** - *May 2021 ~ Aug 2022*  
-- Developed applications using **Node.js**, **ReactJS**, and **Python**, focusing on serverless architectures with **AWS Lambda**.
-- Automated testing processes with **Selenium**, enhancing code quality and deployment efficiency.
+### <span style="color:#268bd2;">Backend Software Developer</span>  
+**<span style="color:#859900;">300Devs</span>** (Remote) - *<span style="color:#b58900;">Sep 2023 ~ Feb 2024</span>*  
+- Built and maintained backend systems using **PHP**, **AWS**, and **Swagger**.
 
-### Tech Lead  
-**Opah (Remote)** - *Nov 2021 ~ Jul 2022*  
-- Led development teams, driving the adoption of **Java**, **Quarkus**, **MongoDB**, and **Kafka** for microservices architecture.
-- Improved testing strategies and container orchestration with **Kubernetes**.
+### <span style="color:#268bd2;">Software Engineer</span>  
+**<span style="color:#859900;">Metal Toad</span>** (Remote) - *<span style="color:#b58900;">May 2021 ~ Aug 2022</span>*  
+- Created software using **Node.js 10/14**, **ReactJS**, **Python**, and **C#**.  
+- Automated testing with **Selenium** and deployed serverless solutions using **AWS Lambda**.
 
-### Senior Java Developer  
-**Banco BV (Remote)** - *May 2021 ~ Oct 2021*  
-- Designed and built distributed systems with **Java** and **Spring**, adhering to **Clean Architecture** principles.
-- Enhanced data flow with **Apache Camel** and messaging through **RabbitMQ** on **GCP**.
+### <span style="color:#268bd2;">Tech Lead</span>  
+**<span style="color:#859900;">Opah</span>** (Remote) - *<span style="color:#b58900;">Nov 2021 ~ Jul 2022</span>*  
+- Led development teams using **Java 11**, **Quarkus**, **MongoDB**, and **Apache Kafka**.  
+- Managed infrastructure with **Kubernetes** and wrote unit tests for quality assurance.
 
-### Tech Lead  
-**Via Varejo (Remote)** - *Feb 2020 ~ May 2021*  
-- Spearheaded microservices development using **Java**, **Spring**, and cloud technologies like **Azure** and **OpenShift**.
-- Optimized system observability with **Kafka**, **Dynatrace**, and **Grafana** for real-time monitoring.
+### <span style="color:#268bd2;">Senior Java Developer</span>  
+**<span style="color:#859900;">Banco BV</span>** (Remote) - *<span style="color:#b58900;">May 2021 ~ Oct 2021</span>*  
+- Designed distributed systems using **Java 8/11**, **Spring**, and **Clean Architecture**.  
+- Integrated messaging systems using **Apache Camel** and **RabbitMQ** on **GCP**.
 
-### Software Developer  
-**UOL** - *Oct 2019 ~ Feb 2020*  
-- Developed microservices using **Java**, **Spring**, and **Node.js**, ensuring system robustness through **TDD** and continuous integration.
-- Built high-performance applications using **Apache Camel** and **Spock** for advanced testing.
+### <span style="color:#268bd2;">Tech Lead</span>  
+**<span style="color:#859900;">Via Varejo</span>** (Remote) - *<span style="color:#b58900;">Feb 2020 ~ May 2021</span>*  
+- Developed microservices using **Java 8/11/14**, **Spring**, **Jenkins**, and **Azure**.  
+- Enhanced observability with **Kafka**, **Dynatrace**, and **Grafana**.
 
-### Java Developer  
-**CVC Corp** - *Mar 2019 ~ Sep 2019*  
-- Delivered microservices solutions using **Java**, **Spring**, and **Docker**, integrating with **Oracle** and **MongoDB** databases.
-- Increased application scalability with **Kafka** for efficient event-driven architecture.
+### <span style="color:#268bd2;">Software Developer</span>  
+**<span style="color:#859900;">UOL</span>** - *<span style="color:#b58900;">Oct 2019 ~ Feb 2020</span>*  
+- Built microservices using **Java 6/7/8/11**, **Spring**, and **Node.js**.  
+- Focused on **TDD**, **Spring Boot**, and **Spock** for advanced testing and continuous integration.
 
-### Software Developer  
-**ITBAM** - *Jul 2018 ~ Feb 2019*  
-- Developed distributed systems and microservices using **Java**, **Node.js**, and **Docker**, ensuring reliability with **SQL Server** and **MongoDB**.
-- Contributed to backend architecture design with a focus on scalable infrastructure.
+### <span style="color:#268bd2;">Java Developer</span>  
+**<span style="color:#859900;">CVC Corp</span>** (Remote) - *<span style="color:#b58900;">Mar 2019 ~ Sep 2019</span>*  
+- Developed microservices with **Java**, **Spring**, and **Docker**, integrating **Oracle** and **MongoDB** databases.
 
-### Web Developer  
-**Tap4 Mobile** - *Sep 2016 ~ Jun 2018*  
-- Delivered full-stack applications using **PHP**, **CakePHP**, and **Laravel**, alongside modern frontend technologies like **Node.js** and **Bootstrap**.
-- Managed large-scale databases with **Oracle**, **SQL Server**, and **MySQL**, ensuring data integrity.
+### <span style="color:#268bd2;">Software Developer</span>  
+**<span style="color:#859900;">ITBAM</span>** (Remote) - *<span style="color:#b58900;">Jul 2018 ~ Feb 2019</span>*  
+- Built distributed systems using **Java**, **Node.js**, and **Docker**.  
+- Ensured system reliability with **SQL Server** and **MongoDB**.
 
-### Technology Analyst  
-**ATOS** - *Jun 2016 ~ Aug 2016*  
-- Configured and managed Linux servers and IT infrastructure, ensuring smooth hardware operations across network equipment.
+### <span style="color:#268bd2;">Web Developer</span>  
+**<span style="color:#859900;">Tap4 Mobile</span>** - *<span style="color:#b58900;">Sep 2016 ~ Jun 2018</span>*  
+- Developed full-stack applications with **PHP**, **CakePHP**, **Laravel**, and **Node.js**.  
+- Managed databases with **Oracle**, **SQL Server**, and **MySQL**.
 
-### Information Technology Analyst  
-**Gibson Innovations** - *Jul 2014 ~ Sep 2015*  
-- Provided technical support and system maintenance for finance and accounting teams using **SAP R/3** and **OracleDB**, ensuring business continuity.
+### <span style="color:#268bd2;">Technology Analyst</span>  
+**<span style="color:#859900;">ATOS</span>** - *<span style="color:#b58900;">Jun 2016 ~ Aug 2016</span>*  
+- Managed hardware and Linux server infrastructure for efficient IT operations.
 
-### System Analyst  
-**LG CNS** - *Apr 2013 ~ Apr 2014*  
-- Supported critical IT operations with **Oracle ERP** and **OracleDB**, streamlining processes for tax and finance departments.
+### <span style="color:#268bd2;">Information Technology Analyst</span>  
+**<span style="color:#859900;">Gibson Innovations</span>** - *<span style="color:#b58900;">Jul 2014 ~ Sep 2015</span>*  
+- Provided technical support using **SAP R/3** and **OracleDB** for finance and accounting systems.
 
-### Junior System Analyst  
-**Samsung Electronics** - *Apr 2012 ~ Apr 2013*  
-- Managed IT systems for logistics and procurement, integrating **SAP R/3** and **OracleDB** for optimized supply chain operations.
+### <span style="color:#268bd2;">System Analyst</span>  
+**<span style="color:#859900;">LG CNS</span>** - *<span style="color:#b58900;">Apr 2013 ~ Apr 2014</span>*  
+- Supported operations for tax and finance departments using **Oracle ERP** and **OracleDB**.
 
-### English Teacher  
-**Wizard** - *Jan 2012 ~ Dec 2014*  
-- Taught English to diverse age groups, building strong communication skills while fostering an engaging learning environment.
+### <span style="color:#268bd2;">Junior System Analyst</span>  
+**<span style="color:#859900;">Samsung Electronics</span>** - *<span style="color:#b58900;">Apr 2012 ~ Apr 2013</span>*  
+- Managed IT systems for logistics and procurement with **SAP R/3** and **OracleDB**.
+
+### <span style="color:#268bd2;">English Teacher</span>  
+**<span style="color:#859900;">Wizard</span>** - *<span style="color:#b58900;">Jan 2012 ~ Dec 2014</span>*  
+- Taught English to diverse age groups, focusing on communication skills.
 
 ---
 
 ## Education
 
 **Bachelor of Science in Computing Science**  
-*Estácio University* - *Jan 2020 ~ Dec 2024 (Expected)*
+*Estácio University* - *<span style="color:#b58900;">Jan 2020 ~ Dec 2024 (Expected)</span>*
 
 ---
 
 ## Skills
 
-- **Languages**: Java, Python, PHP, Node.js, C#, Ruby, JavaScript, Groovy  
+- **Languages**: Java (8/11/13/17), Python, PHP, Node.js, C#, Ruby, JavaScript  
 - **Frameworks**: Spring, Quarkus, Angular, React, Express, Loopback, CakePHP, Laravel  
 - **Databases**: MongoDB, OracleDB, SQL Server, MySQL, Postgres  
-- **Cloud**: AWS, GCP  
-- **DevOps**: Jenkins, Docker  
-- **Other**: SAP R/3, Oracle ERP, Apache Kafka, Apache Camel, TDD, Swagger, Selenium
+- **Cloud/DevOps**: AWS, GCP, Azure, Jenkins, Docker, OpenShift, Kubernetes  
+- **Tools**: Swagger, Apache Kafka, Apache Camel, Selenium, TDD, Spock, Dynatrace, Grafana  
+
 
 </details>
 
