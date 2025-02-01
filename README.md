@@ -285,7 +285,7 @@
   <a href="https://www.instagram.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"></a>
   <a href="https://twitter.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/twitter.png" alt="Twitter"></a>
   <a href="https://github.com/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/github.png" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dantas-rodrigo" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
   <a href="https://www.tiktok.com/@napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"></a>
   <a href="https://discord.com/users/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/discord-logo.png" alt="Discord"></a>
   <a href="https://steamcommunity.com/id/napalm23zero" style="margin: 0 10px;"><img src="https://img.icons8.com/color/32/000000/steam.png" alt="Steam"></a>
