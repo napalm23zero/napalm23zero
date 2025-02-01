@@ -96,44 +96,104 @@
 
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer;">
-    👉 Click to view my full resume
+    👉 [CLICK HERE] for more details
   </summary>
 <br>
 
 ## Professional Experience
 
 ### <span style="color:#268bd2;">Senior Software Engineer</span>  
-**<span style="color:#859900;">KIS Solutions</span>** (Remote) - *<span style="color:#b58900;">Sep 2022 ~ Sep 2024</span>*  
-- Designed and implemented solutions using **Java**, **Python**, **Angular**, and **React**.  
-- Managed hardware integration tasks to ensure seamless system operations.  
-- Led and supervised technology teams, fostering collaboration and productivity.  
-- Ensured adherence to best practices and development standards for optimal performance.  
+**<a href="https://www.kissolutions.tech/" style="color:#859900; text-decoration: none;">KIS Solutions</a>** (Remote) - *<span style="color:#b58900;">Sep 2022 ~ Sep 2024</span>*  
+- Designed and built **high-performance** backend systems using **Java, Python, Angular, and React** because mediocrity is not an option.  
+- Integrated software and hardware like a mad scientist—except it worked flawlessly.  
+- Led a team of engineers, turning caffeine into code and chaos into structured, elegant solutions.  
+- Ensured best practices, code quality, and system architecture were top-notch because I refuse to work with spaghetti code.  
+
+---
 
 ### <span style="color:#268bd2;">Backend Software Developer</span>  
-**<span style="color:#859900;">300Devs</span>** (Remote) - *<span style="color:#b58900;">Sep 2023 ~ Feb 2024</span>*  
-- Developed backend software applications using **PHP**.  
-- Ensured code quality through testing and code reviews.  
-- Maintained technical documentation and provided support for deployed applications.  
+**<a href="https://300devs.com/" style="color:#859900; text-decoration: none;">300Devs</a>** (Remote) - *<span style="color:#b58900;">Sep 2023 ~ Feb 2024</span>*  
+- Built backend systems with **PHP** (yeah, I know...) but made it work like a charm.  
+- Made sure everything was **scalable, efficient, and not a flaming dumpster fire** by enforcing code reviews and proper documentation.  
+- Ensured deployments were smooth, fast, and didn’t wake me up at 3 AM with a production meltdown.  
+
+---
 
 ### <span style="color:#268bd2;">Senior Software Engineer</span>  
-**<span style="color:#859900;">Metal Toad</span>** (Remote) - *<span style="color:#b58900;">Jun 2021 ~ Aug 2022</span>*  
-- Implemented solutions using **Java**, **Python**, **React**, **C++**, **Groovy**, **Scala**, and **Node.js**.  
-- Provided effective technical solutions to complex business problems.  
+**<a href="https://www.metaltoad.com/" style="color:#859900; text-decoration: none;">Metal Toad</a>** (Remote) - *<span style="color:#b58900;">Jun 2021 ~ Aug 2022</span>*  
+- Wrote **Java, Python, React, C++, Groovy, Scala, and Node.js**—because why settle for one language when you can juggle six?  
+- Optimized performance so systems **ran faster than a speedrunner on caffeine**.  
+- Debugged and tested code like a **paranoid security analyst**—because I refuse to let bugs haunt my sleep.  
+- Delivered solutions that actually worked and didn’t explode under real-world load.  
+
+---
 
 ### <span style="color:#268bd2;">Tech Lead</span>  
-**<span style="color:#859900;">Opah IT</span>** (Remote) - *<span style="color:#b58900;">Nov 2021 ~ Jul 2022</span>*  
-- Designed and developed financial solutions using **Java**, **.NET**, **React**, **Redis**, and **MongoDB**.  
-- Supported the development team, removing technical impediments.  
+**<a href="https://opah.com.br/" style="color:#859900; text-decoration: none;">Opah IT</a>** (Remote) - *<span style="color:#b58900;">Nov 2021 ~ Jul 2022</span>*  
+- Engineered **Java, .NET, React, Redis, and MongoDB** solutions that made financial systems actually usable.  
+- Removed technical roadblocks, led the team, and made sure everyone’s code didn’t look like it was written by a raccoon on a keyboard.  
+
+---
 
 ### <span style="color:#268bd2;">Senior Software Developer</span>  
-**<span style="color:#859900;">Banco BV</span>** (Remote) - *<span style="color:#b58900;">Apr 2021 ~ Nov 2021</span>*  
-- Developed software solutions using **Java**, **Spring**, and **Apache Camel**.  
-- Ensured code quality and adherence to development standards.  
+**<a href="https://www.bv.com.br/" style="color:#859900; text-decoration: none;">Banco BV</a>** (Remote) - *<span style="color:#b58900;">Apr 2021 ~ Nov 2021</span>*  
+- Built **Java, Spring, Apache Camel** backend systems that didn’t break when traffic spiked.  
+- Made sure my code was **faster than your internet connection** and cleaner than your Git history.  
+- Worked with cross-functional teams and survived endless meetings without flipping my desk.  
+
+---
 
 ### <span style="color:#268bd2;">Tech Lead</span>  
-**<span style="color:#859900;">Casas Bahia Tecnologia</span>** (Remote) - *<span style="color:#b58900;">May 2020 ~ Apr 2021</span>*  
-- Led software development teams, resolving technical challenges and ensuring high-quality deliverables.  
-- Implemented software quality standards, CI/CD pipelines, and project scalability on **Azure**.  
+**<a href="https://ri.grupocasasbahia.com.br/" style="color:#859900; text-decoration: none;">Casas Bahia Tecnologia</a>** (Remote) - *<span style="color:#b58900;">May 2020 ~ Apr 2021</span>*  
+- Led teams, solved insane bugs, and **implemented CI/CD pipelines** that actually worked.  
+- Developed **Java Spring, Microservices, and Clean Architecture** solutions that didn’t make devs cry.  
+- Worked with **MongoDB, Redis, DB2**—because databases should work **for** me, not against me.  
+
+---
+
+### <span style="color:#268bd2;">Senior Software Developer</span>  
+**<a href="https://sobreuol.noticias.uol.com.br/historia/" style="color:#859900; text-decoration: none;">UOL</a>** (Remote) - *<span style="color:#b58900;">Oct 2019 ~ May 2020</span>*  
+- Built applications using **Java 8 and Kotlin**, because life’s too short for outdated tech.  
+- Used **TDD, Quarkus, and Apache Camel** to ensure everything ran **smoothly, efficiently, and didn’t catch fire**.  
+
+---
+
+### <span style="color:#268bd2;">Senior Java Developer</span>  
+**<a href="https://www.cvccorp.com.br/" style="color:#859900; text-decoration: none;">CVC Corp</a>** (Remote) - *<span style="color:#b58900;">Mar 2019 ~ Sep 2019</span>*  
+- Designed **Java Spring microservices** that scaled like crazy.  
+- Implemented **Kafka** messaging systems that **handled more traffic than a Black Friday sale**.  
+
+---
+
+### <span style="color:#268bd2;">Software Developer</span>  
+**<a href="https://www.linkedin.com/company/transireoficial/" style="color:#859900; text-decoration: none;">Transire Oficial</a>** (Remote) - *<span style="color:#b58900;">Jul 2018 ~ Feb 2019</span>*  
+- Wrote backend systems in **Node.js, Java, Spring, and Swagger**.  
+- Built **Angular 7** front-ends that didn’t make users rage-quit.  
+
+---
+
+### <span style="color:#268bd2;">Software Developer</span>  
+**<a href="https://pt.wikipedia.org/wiki/Tap4" style="color:#859900; text-decoration: none;">Tap4 Mobile</a>** - *<span style="color:#b58900;">Jan 2017 ~ Jun 2018</span>*  
+- Developed **web and mobile apps** using everything from **PHP to MongoDB**.  
+- Built things that actually worked and didn’t require a PhD to debug.  
+
+---
+
+### <span style="color:#268bd2;">Teacher/Instructor</span>  
+**<a href="https://en.wikipedia.org/wiki/Microlins" style="color:#859900; text-decoration: none;">Microlins</a>** - *<span style="color:#b58900;">Jun 2016 ~ Dec 2017</span>*  
+- Taught programming and **turned newbies into devs** who actually knew what they were doing.  
+
+---
+
+### <span style="color:#268bd2;">Support Analyst</span>  
+**<a href="https://atos.net/en/" style="color:#859900; text-decoration: none;">Atos</a>** - *<span style="color:#b58900;">Jun 2016 ~ Aug 2016</span>*  
+- Provided **tech support for the Rio 2016 Olympics** and made sure nothing went wrong.  
+
+---
+
+### <span style="color:#268bd2;">IT Support Intern</span>  
+**<a href="https://www.manaus.am.gov.br/" style="color:#859900; text-decoration: none;">Prefeitura de Manaus</a>** - *<span style="color:#b58900;">May 2009 ~ May 2011</span>*  
+- Kept systems running, fixed bugs, and **made IT chaos slightly less chaotic**.  
 
 ---
 
@@ -177,7 +237,8 @@
 ☕ Java                    3278 commits       ████████████████··········  25.34 % 
 🟦 Typescript              2650 commits       ████████████··············  20.48 % 
 🟨 Javascript              2219 commits       ███████████···············  17.15 % 
-🐍 Python                  1574 commits       █████████·················  12.16 % 
+🐹 Go                      1798 commits       █████████·················  13.90 % 
+🐍 Python                  1574 commits       ████████··················  12.16 % 
 📊 SQL                     1098 commits       ██████···················   08.48 % 
 🐚 Bash                    743 commits        ████·····················   05.74 % 
 💻 C++                     603 commits        ███······················   04.66 % 
@@ -186,16 +247,19 @@
 📝 Markdown                450 commits        ███······················   03.48 % 
 📄 YAML                    422 commits        ███······················   03.26 % 
 🔣 Haskell                 363 commits        ███······················   02.80 % 
-💎 Ruby                    294 commits        ███······················   02.27 % 
+💎 Ruby                    294 commits        ██·······················   02.27 % 
 🐘 PHP                     242 commits        ██·······················   01.87 % 
 🔮 Scala                   208 commits        ██·······················   01.61 % 
 📉 R                       157 commits        █························   01.21 %
 ```
 ```text
-📝 VSCode                  8921 hours         ███████████████████████···   87.00 %
-⌨️ Nano                    943 hours          ███·······················   09.20 %
-🖋️ Vim                     312 hours          ██························   03.04 %
-🧠 Emacs                   124 hours          █·························   01.21 %
+📝 VSCode                  8921 hours         █████████████████████████   87.00 %
+🛠️ Eclipse                 1232 hours         ████·····················   12.02 %
+🧠 IntelliJ                1153 hours         ████·····················   11.24 %
+🖥️ NetBeans                1092 hours         ████·····················   10.65 %
+⌨️ Nano                    943 hours          ███······················   09.20 %
+🖋️ Vim                     312 hours          ██·······················   03.04 %
+🧠 Emacs                   124 hours          █························   01.21 %
 ```
 ```text
 🐧 Linux                  6437 hours         ████████████████████████··   64.21 % 
@@ -203,11 +267,13 @@
 🍏 Mac                    1563 hours         ██████····················   15.35 %
 ```
 ```text
-⚡ Coffee Intake            9000 cups         █████████████████████████
-🎮 Gaming Breaks            8500 hours        ██████████████████████···
-💤 Sleep Deprivation        5000 hours        ███████████··············
-🐱 StackOverflow Visits     700 visits        ████·····················
-🤬 Raging at Bugs           666 meltdowns     ███······················
+⚡ Coffee Intake             9000 cups         █████████████████████████  
+🎮 Gaming Breaks             8500 hours        ██████████████████████···  
+💤 Sleep Deprivation         5000 hours        ███████████··············  
+🐱 StackOverflow Visits      700 visits        ████·····················  
+🤬 Raging at Bugs            666 meltdowns     ███······················  
+🐍 Debugging Infinite Loops  404 escapes      ██························  
+💀 Accidental `rm -rf /`     1 near-death exp  █························  
 ```
 
 ---
