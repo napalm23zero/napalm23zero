@@ -1,3 +1,7 @@
+<head>
+  <base target="_blank" rel="noopener noreferrer">
+</head>
+
 # Hi, I'm Rodrigo 👋
 **Software Developer | Tech Lead | Entrepreneur | Linux Enthusiast | Tech Nerd** 
 
