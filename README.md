@@ -100,7 +100,7 @@
 
 <details>
   <summary style="font-size: 1em; font-weight: normal; cursor: pointer;">
-    👉 [CLICK HERE] for more details
+    👉 my career details
   </summary>
 <br>
 
