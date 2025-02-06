@@ -125,7 +125,7 @@
 
 ### <span style="color:#268bd2;">Senior Software Engineer</span>  
 **<a href="https://www.metaltoad.com/" style="color:#859900; text-decoration: none;">Metal Toad</a>** (Remote) - *<span style="color:#b58900;">Jun 2021 ~ Aug 2022</span>*  
-- Wrote **Java, Python, React, C++, Groovy, Scala, and Node.js**—because why settle for one language when you can juggle six?  
+- Wrote **Java, Python, React, C++, Scala, and Node.js**—because why settle for one language when you can juggle six?  
 - Optimized performance so systems **ran faster than a speedrunner on caffeine**.  
 - Debugged and tested code like a **paranoid security analyst**—because I refuse to let bugs haunt my sleep.  
 - Delivered solutions that actually worked and didn’t explode under real-world load.  
