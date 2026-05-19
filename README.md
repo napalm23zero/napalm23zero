@@ -6,21 +6,11 @@
 <!-- renders as static after one quick stroke on first paint.                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-&nbsp;
-
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=56&duration=1&pause=99999999&color=9D2933&center=true&vCenter=true&width=900&height=80&letterSpacing=0.35em&lines=RODRIGO+DANTAS" alt="Rodrigo Dantas"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=99999999&color=D4D4D4&center=true&vCenter=true&width=700&height=30&letterSpacing=0.6em&lines=STAFF+ENGINEER++%C2%B7++ARCHITECT++%C2%B7++FOUNDER" alt="Staff Engineer · Architect · Founder"/>
 
-&nbsp;
-
-<sub>· · ·</sub>
-
-&nbsp;
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=900&color=A8A29E&center=true&vCenter=true&width=820&height=30&lines=Peace+is+a+lie.+There+is+only+the+codebase.;Two+senior+contracts+in+parallel.+One+profitable+SaaS+of+my+own.;Open+to+co-founder+%2F+CTO+%2F+Staff+Engineer+roles." alt="Tagline"/>
-
-&nbsp;
 
 [![Profile Views](https://komarev.com/ghpvc/?username=napalm23zero&style=flat-square&color=9D2933&label=profile+views&labelColor=0a0606)](https://github.com/napalm23zero)
 [![Followers](https://img.shields.io/github/followers/napalm23zero?style=flat-square&color=9D2933&labelColor=0a0606&label=followers)](https://github.com/napalm23zero)
