@@ -31,45 +31,35 @@
 
 ---
 
-## `⚔ THE CODE OF THE ARCHITECT ⚔`
+## `⚔ THE RECORD ⚔`
 
-> *"A Jedi follows the framework. A Sith bends it."*
-> *I bend frameworks. I ship product. I do not apologize for either.*
+Senior software engineer, architect, and founder. Building production systems since 2009 across fintech, banking, retail, travel, tax compliance, and SaaS — most recently in parallel for Thomson Reuters, FiServ, and a B2B SaaS of my own.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+| Where | When | What was built |
+|---|---|---|
+| **Thomson Reuters** *(via SinQia)* | 2025 → now | **SCANC** — petrochemical fiscal-obligation engine. CDC + ETL in Python/Pandas over Firebird, Oracle PL/SQL SAFX rules, AWS Lambda/SQS/SNS event orchestration. End-to-end run under **12 seconds**. |
+| **FiServ** *(via Go2Win)* | 2024 → now | **AI-powered incident intelligence** for banking compliance. LLM agents generate Splunk queries against curated RCA history; most recurring incidents now resolve near-automatically. Full-stack investigation: Apigee → NGINX → OpenShift/PCF → Java APIs → VMX mainframe. |
+| **HustleTech** *(founder)* | 2019 → now | **Profitable B2B SaaS**, architected from zero. Java/Spring microservices on GCP, React + React Native, PostgreSQL, Redis, Terraform, GitHub Actions. Dozens of paying clients. Tens of thousands of active users. 5-person team. |
+| **KIS Solutions** | 2022 → 2024 | Technical direction across a team of 8. CDC and ETL pipelines (Node/Next), mobile and web delivery for multiple US clients. |
+| **Casas Bahia** *(Via Varejo)* | 2020 → 2021 | Tech Lead. Microservices migration with clean architecture. Multi-database systems: Oracle, MongoDB, Redis, DB2, Azure. CI/CD overhaul that actually shipped. |
+| **Banco BV** + **Opah IT** | 2021 → 2022 | Java/Spring backends and Apache Camel integrations for one of Brazil's largest private banks. Reliability work that held under real traffic. |
+| **UOL** | 2019 → 2020 | Java 8 + Kotlin services with Quarkus, Apache Camel, TDD with Spock. |
+| **CVC Corp** | 2019 | Travel-industry Spring microservices at scale; Kafka, ELK, Jenkins, Oracle, MongoDB. |
 
-```bash
-┌──(rodrigo㉿hustletech)-[~]
-└─$ holocron --decrypt self
+Earlier work at **Samsung**, **LG CNS**, **Philips**, and **Atos** (Rio 2016 Olympics). Full history in [The Chronicles](#-chronicles-of-the-journey-) below.
 
-DESIGNATION   →  Rodrigo Dantas
-LOCATION      →  São Paulo · Outer Rim
-TITLE         →  Staff Engineer · Architect
-ORDER         →  Founders · Builders · Doers
-HOLDING       →  HustleTech (own fiefdom)
-SIGNAL        →  ▰▰▰▰▰▰▰▰▰▰ TRANSMITTING
-```
+---
 
-</td>
-<td valign="top" width="50%">
+- **B.Sc. Computer Science**, Universidade Estácio — `2023 → 2026`
+- **Conference speaker** — *Best Practices in RESTful API Development* (2020) · *MongoDB: What Problems Does It Actually Solve?* (2021)
+- **Three working languages** — Portuguese (native), English (fluent), Spanish (advanced); meetings, interviews, and negotiations run in all three
+- **GMT-3** — overlaps US Eastern fully, US Pacific mostly; remote-first since 2019
 
-```bash
-┌──(rodrigo㉿hustletech)-[~]
-└─$ cat focus.txt
+---
 
-WEAPONS       →  Java · Python · TS · Go · Node
-GARRISON      →  Spring · Quarkus · React · GCP
-DOCTRINE      →  Architecture · AI Agents · Scale
-PHASE         →  [ Shipping ] [ Recruiting ]
-ACCEPTING     →  Co-founder · CTO · Staff Eng
-COORDINATES   →  GMT-3 · Remote · Global-ready
-```
+Open to a **co-founder**, **CTO / VP of Engineering**, or **Staff / Principal Engineer** role at an early- to growth-stage company where architecture, technical direction, and product depth matter more than headcount.
 
-</td>
-</tr>
-</table>
+Reachable at [rodrigo.dantas@hustletech.dev](mailto:rodrigo.dantas@hustletech.dev) · [30-minute call](https://calendar.app.google/ovSnBAqvXtRztvsd7).
 
 ---
 
@@ -429,45 +419,50 @@ Where it all began. The first holocron was opened.
 
 ## `⚡ HOLOCRONS · BY THE NUMBERS ⚡`
 
-<div align="center">
-
 ```text
-🩸  WHERE THE BLOOD IS SPILLED  (last 5 years across all roles)
+🩸  WHERE THE BLOOD IS SPILLED  ·  languages, last 5 years across all roles
 
-   ☕ Java          ████████████████░░░░░░░░░░░░░░  32.0%
-   🐍 Python       ████████░░░░░░░░░░░░░░░░░░░░░░  17.0%
-   🟦 TypeScript   ██████░░░░░░░░░░░░░░░░░░░░░░░░  13.0%
-   🟨 JavaScript   ████░░░░░░░░░░░░░░░░░░░░░░░░░░   9.0%
-   📊 SQL / PL/SQL ████░░░░░░░░░░░░░░░░░░░░░░░░░░   9.0%
-   🟪 Kotlin       ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
-   🐹 Go           ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-   🐚 Bash         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-   🌀 Groovy / C#  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
-   📝 Other        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
-
-🌙  WHEN THE CODE BURNS
-   Dawn ████████ · Morning ████ · Afternoon ██████ · Evening ████████ · Night ███████
-
-⛧   WHERE THE THRONE STANDS
-   Linux ████████████████ 64%  ·  Windows ██████ 20%  ·  macOS █████ 15%
+   🟫 Java                  ████████████████░░░░░░░░░░░░░░   32.0%
+   🐍 Python                ████████░░░░░░░░░░░░░░░░░░░░░░   17.0%
+   🟦 TypeScript            ██████░░░░░░░░░░░░░░░░░░░░░░░░   13.0%
+   🟨 JavaScript            ████░░░░░░░░░░░░░░░░░░░░░░░░░░    9.0%
+   📊 SQL / PL/SQL          ████░░░░░░░░░░░░░░░░░░░░░░░░░░    9.0%
+   🟪 Kotlin                ███░░░░░░░░░░░░░░░░░░░░░░░░░░░    6.0%
+   🐹 Go                    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0%
+   🐚 Bash                  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.0%
+   🌀 Groovy / C#           ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3.0%
+   📝 Other                 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.0%
 ```
 
-</div>
-
-<details>
-<summary>🩸 <b>The honest sins</b> (less serious)</summary>
-
 ```text
-⚡ Coffee Intake          9,000 cups          ███████████████████████████
-🎮 Gaming Breaks          8,500 hours         ██████████████████████·····
-💤 Sleep Deprivation      5,000 hours         ███████████················
-🐱 StackOverflow Visits   700 visits          ████·······················
-🤬 Raging at Bugs         666 meltdowns       ███························
-🐍 Debugging Hell         404 escapes         ██·························
-💀 Accidental rm -rf /    1 near-death exp    █··························
+🌙  WHEN THE CODE BURNS  ·  commit distribution across the day
+
+   🌅 Dawn      (04–08)    ████████░░░░░░░░░░░░░░░░░░░░░░   26.8%
+   🌞 Morning   (08–12)    ████░░░░░░░░░░░░░░░░░░░░░░░░░░   13.1%
+   🌆 Afternoon (12–18)    ██████░░░░░░░░░░░░░░░░░░░░░░░░   19.6%
+   🌇 Evening   (18–22)    ████████░░░░░░░░░░░░░░░░░░░░░░   24.0%
+   🌃 Night     (22–04)    ███████░░░░░░░░░░░░░░░░░░░░░░░   23.5%
 ```
 
-</details>
+```text
+🖥️  WHERE THE THRONE STANDS  ·  operating systems
+
+   🐧 Linux                ████████████████████░░░░░░░░░░   64.0%
+   🪟 Windows              ██████░░░░░░░░░░░░░░░░░░░░░░░░   20.4%
+   🍏 macOS                █████░░░░░░░░░░░░░░░░░░░░░░░░░   15.4%
+```
+
+```text
+🩸  THE HONEST SINS  ·  less serious
+
+   🥤 Coffee Intake         ██████████████████████████████   9,000 cups
+   🎮 Gaming Breaks         ████████████████████████░░░░░░   8,500 hours
+   💤 Sleep Deprivation     ██████████████░░░░░░░░░░░░░░░░   5,000 hours
+   🐱 StackOverflow Visits  █████░░░░░░░░░░░░░░░░░░░░░░░░░     700 visits
+   🤬 Raging at Bugs        ████░░░░░░░░░░░░░░░░░░░░░░░░░░     666 meltdowns
+   🐛 Debugging Hell        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░     404 escapes
+   💀 Accidental rm -rf /   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░       1 near-death exp
+```
 
 ---
 
