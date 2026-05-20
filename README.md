@@ -187,8 +187,8 @@ Conference speaker (RESTful APIs · MongoDB architecture). Currently bootstrappi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle / PL/SQL" title="Oracle / PL/SQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" title="SQL Server"/>&nbsp;
-<img src="https://cdn.simpleicons.org/firebird/F40D12" width="48" height="48" alt="Firebird" title="Firebird"/>&nbsp;
-<img src="https://cdn.simpleicons.org/ibm/052FAD" width="48" height="48" alt="IBM DB2" title="IBM DB2"/>&nbsp;
+<img src="https://dbdb.io/media/logos/firebird.png" width="48" height="48" alt="Firebird" title="Firebird"/>&nbsp;
+<img src="https://discover.strongdm.com/hubfs/ibm-db2-logo.png" width="48" height="48" alt="IBM DB2" title="IBM DB2"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Apache Kafka" title="Apache Kafka"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" title="RabbitMQ"/>&nbsp;
 <img src="https://cdn.simpleicons.org/apache/D22128" width="48" height="48" alt="Apache Camel" title="Apache Camel"/>
@@ -197,7 +197,7 @@ Conference speaker (RESTful APIs · MongoDB architecture). Currently bootstrappi
 
 #### 🧠 The Dark Arts · AI & LLM 🧠
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI" title="OpenAI / LLM Agents"/>&nbsp;
+<img src="https://static.freepnglogo.com/images/all_img/1702059841openai-icon-png.png" width="48" height="48" alt="OpenAI" title="OpenAI / LLM Agents"/>&nbsp;
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Anthropic" title="Anthropic / Claude"/>&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" title="LangChain / RAG"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;
@@ -211,7 +211,7 @@ Conference speaker (RESTful APIs · MongoDB architecture). Currently bootstrappi
 #### 🐧 Battle Stations 🐧
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/3840px-UbuntuCoF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="48" height="48" alt="Ubuntu" title="Ubuntu"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux" title="Arch Linux"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" title="Debian"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" title="Raspberry Pi"/>&nbsp;
