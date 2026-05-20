@@ -47,8 +47,6 @@ Earlier work at **Samsung**, **LG CNS**, **Philips**, and **Atos** (Rio 2016 Oly
 
 ---
 
-Open to a **co-founder**, **CTO / VP of Engineering**, or **Staff / Principal Engineer** role at an early- to growth-stage company where architecture, technical direction, and product depth matter more than headcount.
-
 Reachable at [rodrigo.dantas@hustletech.dev](mailto:rodrigo.dantas@hustletech.dev) · [30-minute call](https://calendar.app.google/ovSnBAqvXtRztvsd7).
 
 ---
