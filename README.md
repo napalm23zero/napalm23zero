@@ -292,30 +292,32 @@ Because most "edge computing" tutorials end at *"blink an LED."* Mine will not.
 [![NestJS Template](https://github-readme-stats.vercel.app/api/pin/?username=napalm23zero&repo=ultimate-typescript-nestjs-api-template&theme=radical&hide_border=true&bg_color=0a0606&title_color=9D2933&icon_color=9D2933&text_color=d4d4d4)](https://github.com/napalm23zero/ultimate-typescript-nestjs-api-template)
 
 ---
-
+ 
 ## `📜 CHRONICLES OF THE JOURNEY 📜`
-
+ 
 ```text
-YEAR  RANK                              HOLD / HOUSE                     DURATION  TIMELINE
-────  ────────────────────────────────  ───────────────────────────────  ────────  ──────────────────────────────
-2025  Senior Software Engineer          Thomson Reuters (via SinQia)     ongoing   ████░░░░░░░░░░░░░░░░░░░░░░░░░░
-2024  Senior Software Engineer          FiServ (via Go2Win)              ongoing   ██████░░░░░░░░░░░░░░░░░░░░░░░░
-2022  Senior Software Engineer          KIS Solutions                    24 mo     ████████████████████████░░░░░░
-2021  Senior Software Engineer          Metal Toad                       15 mo     ███████████████░░░░░░░░░░░░░░░
-2021  Tech Lead                         Opah IT / Banco BV               16 mo     ████████████████░░░░░░░░░░░░░░
-2020  Tech Lead                         Via Varejo (Casas Bahia)         12 mo     ████████████░░░░░░░░░░░░░░░░░░
-2019  Senior Software Engineer          UOL                               8 mo     ████████░░░░░░░░░░░░░░░░░░░░░░
-2019  Senior Java Developer             CVC Corp                          7 mo     ███████░░░░░░░░░░░░░░░░░░░░░░░
-2019  Founder / Architect               HustleTech (own fiefdom)         ongoing   ██████████████████████████████
-2018  Software Developer                ITBAM                             8 mo     ████████░░░░░░░░░░░░░░░░░░░░░░
-2016  Software Developer                Tap4 Mobile                      22 mo     ██████████████████████░░░░░░░░
-2016  Teacher / Instructor              Microlins                        18 mo     ██████████████████░░░░░░░░░░░░
-2016  Support Analyst (Rio Olympics)    ATOS                              3 mo     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
-2014  IT Analyst                        Gibson, Inc.                     15 mo     ███████████████░░░░░░░░░░░░░░░
-2013  System Analyst                    LG CNS                           12 mo     ████████████░░░░░░░░░░░░░░░░░░
-2012  Innovation Analyst                Samsung Electronics              13 mo     █████████████░░░░░░░░░░░░░░░░░
-2011  Systems Analysis Intern           Philips                          12 mo     ████████████░░░░░░░░░░░░░░░░░░
-2009  IT Support Intern                 Prefeitura de Manaus             24 mo     ████████████████████████░░░░░░
+YEAR  ROLE                              COMPANY                           DURATION  TIMELINE
+────  ────────────────────────────────  ───────────────────────────────   ────────  ──────────────────────────────
+2025  Senior Software Engineer          Thomson Reuters (via SinQia)       ongoing  ███████████████████░░░░░░░░░░░
+2024  Senior Software Engineer          FiServ (via Go2Win)                ongoing  ████████████████████████░░░░░░
+2022  Senior Software Engineer          KIS Solutions                        24 mo  ██████████████████████████████
+2021  Senior Software Engineer          Metal Toad                           14 mo  ██████████████████░░░░░░░░░░░░
+2021  Tech Lead                         Opah IT / Banco BV                   15 mo  ███████████████████░░░░░░░░░░░
+2020  Tech Lead                         Via Varejo (Casas Bahia)             11 mo  ██████████████░░░░░░░░░░░░░░░░
+2019  Senior Software Engineer          UOL                                   7 mo  █████████░░░░░░░░░░░░░░░░░░░░░
+2019  Senior Java Developer             CVC Corp                              6 mo  ████████░░░░░░░░░░░░░░░░░░░░░░
+2019  Founder / Architect               HustleTech (own fiefdom)            78 mo*  ██████████████████████████████
+2018  Software Developer                ITBAM                                 7 mo  █████████░░░░░░░░░░░░░░░░░░░░░
+2016  Software Developer                Tap4 Mobile                          21 mo  ██████████████████████████░░░░
+2016  Teacher / Instructor              Microlins                            18 mo  ██████████████████████░░░░░░░░
+2016  Support Analyst (Rio Olympics)    ATOS                                  2 mo  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+2014  IT Analyst                        Gibson, Inc.                         15 mo  ███████████████████░░░░░░░░░░░
+2013  System Analyst                    LG CNS                               11 mo  ██████████████░░░░░░░░░░░░░░░░
+2012  Innovation Analyst                Samsung Electronics                  12 mo  ███████████████░░░░░░░░░░░░░░░
+2011  Systems Analysis Intern           Philips                              11 mo  ██████████████░░░░░░░░░░░░░░░░
+2009  IT Support Intern                 Prefeitura de Manaus                 24 mo  ██████████████████████████████
+ 
+* HustleTech is my own company — running in parallel to all roles above since 2019.
 ```
 
 <details>
