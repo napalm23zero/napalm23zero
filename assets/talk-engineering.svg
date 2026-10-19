@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="228" viewBox="0 0 280 228" role="img" aria-labelledby="title desc">
-<title id="title">Talk engineering</title><desc id="desc">Architecture, systems, and APIs. LLM-assisted engineering. The tradeoffs behind good software. Let&#x27;s exchange ideas</desc>
-<rect x=".5" y=".5" width="279" height="227" rx="8" fill="#10151d" stroke="#303642"/>
-<rect x="20" y="23" width="22" height="3" rx="1.5" fill="#df5b68"/>
-<text x="20" y="49" fill="#9da9b9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" letter-spacing="1">01 / EXCHANGE IDEAS</text>
-<text x="20" y="85" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Talk engineering</text><text x="20" y="115" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Architecture, systems, and APIs.</text><text x="20" y="136" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">LLM-assisted engineering.</text><text x="20" y="157" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">The tradeoffs behind good software.</text><path d="M20 181 H260" stroke="#29323f"/><text x="20" y="207" fill="#ed8d97" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">Let&#x27;s exchange ideas →</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="174" viewBox="0 0 280 174" role="img" aria-labelledby="title desc">
+<title id="title">Talk engineering</title><desc id="desc">Systems, APIs, and architecture. Tradeoffs worth discussing. Explore the engineering</desc>
+<rect x="4.5" y="4.5" width="271" height="165" rx="8" fill="#10151d" stroke="#303642"/>
+<rect x="20" y="20" width="20" height="3" rx="1.5" fill="#df5b68"/>
+<text x="20" y="44" fill="#a7b1c0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing=".6">FOR ENGINEERS</text>
+<text x="20" y="76" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Talk engineering</text>
+<text x="20" y="101" fill="#bdc6d2" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Systems, APIs, and architecture.</text>
+<text x="20" y="121" fill="#bdc6d2" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Tradeoffs worth discussing.</text>
+<text x="20" y="153" fill="#f09aa4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">Explore the engineering →</text></svg>

@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="228" viewBox="0 0 280 228" role="img" aria-labelledby="title desc">
-<title id="title">Hire an engineer</title><desc id="desc">Senior engineering. Hands-on work. Technical leadership and ownership. Focused on a full-time role. Discuss an opportunity</desc>
-<rect x=".5" y=".5" width="279" height="227" rx="8" fill="#10151d" stroke="#303642"/>
-<rect x="20" y="23" width="22" height="3" rx="1.5" fill="#df5b68"/>
-<text x="20" y="49" fill="#9da9b9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" letter-spacing="1">02 / BUILD YOUR TEAM</text>
-<text x="20" y="85" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Hire an engineer</text><text x="20" y="115" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Senior engineering. Hands-on work.</text><text x="20" y="136" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Technical leadership and ownership.</text><text x="20" y="157" fill="#b8c2d0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Focused on a full-time role.</text><path d="M20 181 H260" stroke="#29323f"/><text x="20" y="207" fill="#ed8d97" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">Discuss an opportunity →</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="174" viewBox="0 0 280 174" role="img" aria-labelledby="title desc">
+<title id="title">Hire an engineer</title><desc id="desc">Senior delivery. Technical ownership. Full-time engineering roles. See experience</desc>
+<rect x="4.5" y="4.5" width="271" height="165" rx="8" fill="#10151d" stroke="#303642"/>
+<rect x="20" y="20" width="20" height="3" rx="1.5" fill="#df5b68"/>
+<text x="20" y="44" fill="#a7b1c0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing=".6">FOR RECRUITERS</text>
+<text x="20" y="76" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Hire an engineer</text>
+<text x="20" y="101" fill="#bdc6d2" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Senior delivery. Technical ownership.</text>
+<text x="20" y="121" fill="#bdc6d2" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Full-time engineering roles.</text>
+<text x="20" y="153" fill="#f09aa4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">See experience →</text></svg>

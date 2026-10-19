@@ -1,36 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="416" viewBox="0 0 440 416" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="492" viewBox="0 0 360 492" role="img" aria-labelledby="title desc">
 <title id="title">The honest sins</title><desc id="desc">Coffee intake: 9,000 cups; Gaming breaks: 8,500 hours; Sleep deprivation: 5,000 hours; StackOverflow visits: 700 visits; Raging at bugs: 666 meltdowns; Debugging hell: 404 escapes; Accidental rm -rf /: 1 close call</desc>
-<rect x=".5" y=".5" width="439" height="415" rx="10" fill="#10151d" stroke="#303642"/>
-<rect x="24" y="27" width="24" height="3" rx="1.5" fill="#df5b68"/>
-<text x="24" y="57" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">The honest sins</text>
-<text x="24" y="79" fill="#a0aaba" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Developer folklore · take with coffee</text>
-<text x="24" y="123" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Coffee intake</text>
-<text x="416" y="123" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">9,000 cups</text>
-<rect x="24" y="131" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="131" width="392.00" height="5" rx="2.5" fill="#e47580"/>
-<text x="24" y="159" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Gaming breaks</text>
-<text x="416" y="159" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">8,500 hours</text>
-<rect x="24" y="167" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="167" width="370.22" height="5" rx="2.5" fill="#b04b59"/>
-<text x="24" y="195" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Sleep deprivation</text>
-<text x="416" y="195" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">5,000 hours</text>
-<rect x="24" y="203" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="203" width="217.78" height="5" rx="2.5" fill="#b04b59"/>
-<text x="24" y="231" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">StackOverflow visits</text>
-<text x="416" y="231" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">700 visits</text>
-<rect x="24" y="239" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="239" width="30.49" height="5" rx="2.5" fill="#b04b59"/>
-<text x="24" y="267" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Raging at bugs</text>
-<text x="416" y="267" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">666 meltdowns</text>
-<rect x="24" y="275" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="275" width="29.01" height="5" rx="2.5" fill="#b04b59"/>
-<text x="24" y="303" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Debugging hell</text>
-<text x="416" y="303" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">404 escapes</text>
-<rect x="24" y="311" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="311" width="17.60" height="5" rx="2.5" fill="#b04b59"/>
-<text x="24" y="339" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Accidental rm -rf /</text>
-<text x="416" y="339" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">1 close call</text>
-<rect x="24" y="347" width="392" height="5" rx="2.5" fill="#252d3a"/>
-<rect x="24" y="347" width="3.00" height="5" rx="2.5" fill="#b04b59"/>
-<path d="M24 377 H416" stroke="#28313f"/>
-<text x="24" y="399" fill="#9ba6b6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">04 / THE HUMAN BEHIND THE COMMITS</text></svg>
+<rect x="4.5" y="4.5" width="351" height="483" rx="10" fill="#10151d" stroke="#303642"/>
+<rect x="20" y="24" width="20" height="3" rx="1.5" fill="#df5b68"/>
+<text x="20" y="55" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">The honest sins</text>
+<text x="20" y="78" fill="#a7b1c0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">Developer folklore · take with coffee</text>
+<text x="20" y="128" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Coffee intake</text>
+<text x="340" y="128" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">9,000 cups</text>
+<rect x="20" y="135" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="135" width="320.00" height="4" rx="2" fill="#e47580"/>
+<text x="20" y="176" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Gaming breaks</text>
+<text x="340" y="176" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">8,500 hours</text>
+<rect x="20" y="183" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="183" width="302.22" height="4" rx="2" fill="#b04b59"/>
+<text x="20" y="224" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Sleep deprivation</text>
+<text x="340" y="224" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">5,000 hours</text>
+<rect x="20" y="231" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="231" width="177.78" height="4" rx="2" fill="#b04b59"/>
+<text x="20" y="272" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">StackOverflow visits</text>
+<text x="340" y="272" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">700 visits</text>
+<rect x="20" y="279" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="279" width="24.89" height="4" rx="2" fill="#b04b59"/>
+<text x="20" y="320" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Raging at bugs</text>
+<text x="340" y="320" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">666 meltdowns</text>
+<rect x="20" y="327" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="327" width="23.68" height="4" rx="2" fill="#b04b59"/>
+<text x="20" y="368" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Debugging hell</text>
+<text x="340" y="368" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">404 escapes</text>
+<rect x="20" y="375" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="375" width="14.36" height="4" rx="2" fill="#b04b59"/>
+<text x="20" y="416" fill="#dce2eb" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="17">Accidental rm -rf /</text>
+<text x="340" y="416" text-anchor="end" fill="#edf1f7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16">1 close call</text>
+<rect x="20" y="423" width="320" height="4" rx="2" fill="#27303d"/>
+<rect x="20" y="423" width="3.00" height="4" rx="2" fill="#b04b59"/>
+<path d="M20 454 H340" stroke="#29323f"/>
+<text x="20" y="479" fill="#a7b1c0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">04 / THE HUMAN BEHIND THE COMMITS</text></svg>
