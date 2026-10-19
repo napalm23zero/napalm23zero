@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Rodrigo Dantas. Senior Software Engineer, Tech Lead, Solopreneur.</title>
+<desc id="desc">Software that earns its place in production. Engineering, systems, and ownership. São Paulo, Brazil.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#161b22"/><stop offset="1" stop-color="#0b0e14"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#e15a67" stop-opacity=".13"/><stop offset="1" stop-color="#e15a67" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8794a5" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="10" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="10" fill="url(#grid)"/>
+<ellipse cx="1030" cy="190" rx="300" ry="240" fill="url(#glow)"/>
+<rect x="0" y="0" width="5" height="360" fill="#df5b68"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+  <text x="52" y="55" fill="#df7883" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2.5">ENGINEERING / SYSTEMS / OWNERSHIP</text>
+  <text x="48" y="132" fill="#f0f3f7" font-size="58" font-weight="700" letter-spacing="1">Rodrigo Dantas<tspan fill="#df5b68">.</tspan></text>
+  <text x="52" y="180" fill="#c6cdd7" font-size="22">Senior Software Engineer · Tech Lead · Solopreneur</text>
+  <text x="52" y="232" fill="#f0f3f7" font-size="25" font-weight="500">Software that earns its place in production.</text>
+  <path d="M52 267 H731" stroke="#303642"/>
+  <text x="52" y="308" fill="#9ba6b5" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">SÃO PAULO, BR / GMT-3</text>
+  <text x="731" y="308" fill="#9ba6b5" font-size="14" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">CURIOUS BY DEFAULT.</text>
+</g>
+<g fill="none" stroke="#667081" stroke-width="1.3">
+  <path d="M842 96 H912 L946 130 H1086 V247 H1014 L978 283 H842 Z" opacity=".42"/>
+  <path d="M842 96 L978 283 M842 283 L1086 130 M912 96 V247 H1086" opacity=".2"/>
+  <path d="M842 188 H959 L1014 247" stroke="#df5b68" opacity=".85"/>
+  <path d="M959 188 V130 H1086" stroke="#df5b68" opacity=".85"/>
+  <path d="M959 188 V283 H1014" opacity=".6"/>
+</g>
+<g fill="#0d1117" stroke="#586375"><circle cx="842" cy="96" r="6"/><circle cx="1086" cy="130" r="6"/><circle cx="1014" cy="247" r="6"/><circle cx="842" cy="283" r="6"/></g>
+<circle cx="959" cy="188" r="28" fill="#df5b68" fill-opacity=".08"/>
+<circle cx="959" cy="188" r="8" fill="#df5b68"/>
+<g fill="#8994a4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.5">
+  <text x="831" y="74">BUILD</text><text x="1056" y="108">OPERATE</text><text x="1000" y="310">EVOLVE</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="359" rx="10" fill="none" stroke="#303642"/>
+</svg>

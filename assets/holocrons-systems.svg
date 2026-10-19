@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="416" viewBox="0 0 440 416" role="img" aria-labelledby="title desc">
+<title id="title">Where the throne stands</title><desc id="desc">Linux: 64.0%; Windows: 20.4%; macOS: 15.4%</desc>
+<rect x=".5" y=".5" width="439" height="415" rx="10" fill="#10151d" stroke="#303642"/>
+<rect x="24" y="27" width="24" height="3" rx="1.5" fill="#df5b68"/>
+<text x="24" y="57" fill="#edf1f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Where the throne stands</text>
+<text x="24" y="79" fill="#a0aaba" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14">The operating system rotation</text>
+<text x="24" y="145" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Linux</text>
+<text x="416" y="145" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">64.0%</text>
+<rect x="24" y="153" width="392" height="5" rx="2.5" fill="#252d3a"/>
+<rect x="24" y="153" width="392.00" height="5" rx="2.5" fill="#e47580"/>
+<text x="24" y="228" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">Windows</text>
+<text x="416" y="228" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">20.4%</text>
+<rect x="24" y="236" width="392" height="5" rx="2.5" fill="#252d3a"/>
+<rect x="24" y="236" width="124.95" height="5" rx="2.5" fill="#b04b59"/>
+<text x="24" y="311" fill="#d8dee8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="15">macOS</text>
+<text x="416" y="311" text-anchor="end" fill="#e7ecf3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">15.4%</text>
+<rect x="24" y="319" width="392" height="5" rx="2.5" fill="#252d3a"/>
+<rect x="24" y="319" width="94.33" height="5" rx="2.5" fill="#b04b59"/>
+<path d="M24 377 H416" stroke="#28313f"/>
+<text x="24" y="399" fill="#9ba6b6" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">03 / LINUX ENTHUSIAST. OBVIOUSLY.</text></svg>
