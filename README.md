@@ -8,14 +8,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=56&duration=1&pause=99999999&color=9D2933&center=true&vCenter=true&width=900&height=80&letterSpacing=0.35em&lines=RODRIGO+DANTAS" alt="Rodrigo Dantas"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=99999999&color=D4D4D4&center=true&vCenter=true&width=700&height=30&letterSpacing=0.6em&lines=STAFF+ENGINEER++%C2%B7++ARCHITECT++%C2%B7++FOUNDER" alt="Staff Engineer · Architect · Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=14&duration=1&pause=99999999&color=D4D4D4&center=true&vCenter=true&width=700&height=30&letterSpacing=0.6em&lines=SENIOR+SOFTWARE+ENGINEER++%C2%B7++SOLOPRENEUR" alt="Senior Software Engineer · Solopreneur"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=900&color=A8A29E&center=true&vCenter=true&width=820&height=30&lines=Peace+is+a+lie.+There+is+only+the+codebase.;Two+senior+contracts+in+parallel.+One+profitable+SaaS+of+my+own.;Open+to+co-founder+%2F+CTO+%2F+Staff+Engineer+roles." alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=900&color=A8A29E&center=true&vCenter=true&width=820&height=30&lines=Peace+is+a+lie.+There+is+only+the+codebase.;Java,+Spring,+Python.+Ten+years+building+software.;Focused+on+full-time+engineering.+Building+toward+Software+Architect." alt="Tagline"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=napalm23zero&style=flat-square&color=9D2933&label=profile+views&labelColor=0a0606)](https://github.com/napalm23zero)
 [![Followers](https://img.shields.io/github/followers/napalm23zero?style=flat-square&color=9D2933&labelColor=0a0606&label=followers)](https://github.com/napalm23zero)
-[![Years](https://img.shields.io/badge/15%2B-years%20shipping-9D2933?style=flat-square&labelColor=0a0606)](#)
-[![Status](https://img.shields.io/badge/status-seeking%20a%20worthy%20alliance-9D2933?style=flat-square&labelColor=0a0606)](#-an-offer-of-alliance-)
+[![Years](https://img.shields.io/badge/10-years%20building%20software-9D2933?style=flat-square&labelColor=0a0606)](#)
+[![Status](https://img.shields.io/badge/status-open%20to%20full--time%20roles-9D2933?style=flat-square&labelColor=0a0606)](#-an-offer-of-alliance-)
 
 </div>
 
@@ -23,27 +23,27 @@
 
 ## `⚔ THE RECORD ⚔`
 
-Senior software engineer, architect, and founder. Building production systems since 2009 across fintech, banking, retail, travel, tax compliance, and SaaS — most recently in parallel for Thomson Reuters, FiServ, and a B2B SaaS of my own.
+Senior Software Engineer with **10 years building software**, after five in systems analysis and infrastructure. Java, Spring, and Python across banking, fintech, regulatory compliance, retail, travel, and insurtech in Brazil and the US, with React and Next.js for full-stack work. I founded **HustleTech**, my solopreneur company, and build its personal projects outside business hours alongside my full-time engineering career.
 
 | Where | When | What was built |
 |---|---|---|
-| **Thomson Reuters** *(via SinQia)* | 2025 → now | **SCANC** — petrochemical fiscal-obligation engine. CDC + ETL in Python/Pandas over Firebird, Oracle PL/SQL SAFX rules, AWS Lambda/SQS/SNS event orchestration. End-to-end run under **12 seconds**. |
-| **FiServ** *(via Go2Win)* | 2024 → now | **AI-powered incident intelligence** for banking compliance. LLM agents generate Splunk queries against curated RCA history; most recurring incidents now resolve near-automatically. Full-stack investigation: Apigee → NGINX → OpenShift/PCF → Java APIs → VMX mainframe. |
-| **HustleTech** *(founder)* | 2019 → now | **Profitable B2B SaaS**, architected from zero. Java/Spring microservices on GCP, React + React Native, PostgreSQL, Redis, Terraform, GitHub Actions. Dozens of paying clients. Tens of thousands of active users. 5-person team. |
-| **KIS Solutions** | 2022 → 2024 | Technical direction across a team of 8. CDC and ETL pipelines (Node/Next), mobile and web delivery for multiple US clients. |
-| **Casas Bahia** *(Via Varejo)* | 2020 → 2021 | Tech Lead. Microservices migration with clean architecture. Multi-database systems: Oracle, MongoDB, Redis, DB2, Azure. CI/CD overhaul that actually shipped. |
-| **Banco BV** + **Opah IT** | 2021 → 2022 | Java/Spring backends and Apache Camel integrations for one of Brazil's largest private banks. Reliability work that held under real traffic. |
-| **UOL** | 2019 → 2020 | Java 8 + Kotlin services with Quarkus, Apache Camel, TDD with Spock. |
-| **CVC Corp** | 2019 | Travel-industry Spring microservices at scale; Kafka, ELK, Jenkins, Oracle, MongoDB. |
+| **FiServ** *(via Go2Win)* | Oct 2024 - Present | Banking and compliance APIs, end-to-end incident investigation, and LLM-assisted triage: average triage time reduced from ~60 to ~20 minutes. |
+| **KIS Solutions** | Sep 2022 - Sep 2024 | Full-stack delivery across 5 client projects, CDC/ETL pipelines, and mentoring within a team of 8. |
+| **MetalToad** | Jun 2021 - Aug 2022 | US client projects and Salesforce-to-Java notification integration through RabbitMQ. |
+| **Via Varejo (Casas Bahia)** *(via Opah)* | May 2020 - Apr 2021 | Technical leadership for digital insurance embedded in retail checkout, including policy issuance and digital signature. |
+| **UOL** *(via Opah)* | Oct 2019 - May 2020 | Java and Apache Camel integrations for payments, UOL Mail, antivirus, and antifraud products. |
+| **CVC** *(via Opah)* | Mar 2019 - Sep 2019 | Airline package sales backend and Kafka/ETL pipelines synchronizing Oracle with MongoDB. |
+| **Transire (ITBAM)** | Jul 2018 - Feb 2019 | PedeJa food delivery in Java/Spring and Ghost Market checkout-free retail in Node.js with RFID. |
+| **Tap4 Mobile** | Sep 2016 - Jun 2018 | CRM integrations, Angular dashboards, and incident monitoring with an Android app for Musashi. |
 
-Earlier work at **Samsung**, **LG CNS**, **Philips**, and **Atos** (Rio 2016 Olympics). Full history in [The Chronicles](#-chronicles-of-the-journey-) below.
+Career timeline and earlier roles in [The Chronicles](#-chronicles-of-the-journey-) below.
 
 ---
 
-- **B.Sc. Computer Science**, Universidade Estácio — `2023 → 2026`
+- **B.Sc. Computer Science**, Universidade Estácio, São Paulo · `Jan 2023 - Jun 2026`
 - **Conference speaker** — *Best Practices in RESTful API Development* (2020) · *MongoDB: What Problems Does It Actually Solve?* (2021)
 - **Three working languages** — Portuguese (native), English (fluent), Spanish (advanced); meetings, interviews, and negotiations run in all three
-- **GMT-3** — overlaps US Eastern fully, US Pacific mostly; remote-first since 2019
+- **São Paulo, Brazil · GMT-3** · Remote collaboration with US and international teams
 
 ---
 
@@ -51,47 +51,25 @@ Reachable at [rodrigo.dantas@hustletech.dev](mailto:rodrigo.dantas@hustletech.de
 
 ---
 
-## `⛧ THREE FRONTS · ONE ARCHITECT ⛧`
-
-> Yes, **two senior engineering contracts in parallel** plus running my own profitable SaaS.
-> The empire was not built by people who needed eight hours of sleep.
+## `⚡ HUSTLETECH · MY SOLOPRENEUR COMPANY ⚡`
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="100%" valign="top">
 
-### 🩸
-**Senior SWE @ FiServ**
-*(via Go2Win)*
-`Oct 2024 → Now`
+### ⚡ Founder & Sole Engineer · [HustleTech](https://hustletech.dev/)
 
-Built an **AI-powered incident intelligence system** — LLM agents craft Splunk incantations, cross-reference past failures, and resolve recurring incidents near-automatically.
+`2016 - Present` · *Personal projects portfolio · São Paulo, Brazil*
 
-`Apigee · OpenShift · Java · VMX`
+**HustleTech is my own company, where I build personal products as a solopreneur outside business hours. My full-time engineering role is my professional priority.**
 
-</td>
-<td width="33%" align="center" valign="top">
+Independently developed **3 apps and 2 games**, from concept to implementation. Current platform work includes **Condo**, a multi-tenant B2B SaaS for condominium management, and **Ardha**, a single-tenant B2C tarot platform, both in development.
 
-### 🔥
-**Senior SWE @ Thomson Reuters**
-*(via SinQia)*
-`Feb 2025 → Now`
+Architected Java/Spring Boot modular monoliths on GCP Cloud Run with React, React Native, PostgreSQL, and Redis. Built database-enforced tenancy constraints, Redis-backed RBAC, and an LGPD-aware identity model. Terraform and GitHub Actions support delivery; LLM-powered agents assist testing, architecture review, and security checks.
 
-Built **SCANC from scratch** — centralized fiscal obligation engine. CDC + ETL pipelines processing millions of records end-to-end in **under 12 seconds**.
+`Java · Spring Boot · React · React Native · PostgreSQL · Redis · GCP · Terraform`
 
-`Python · Pandas · Oracle PL/SQL · AWS`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚡
-**Founder @ HustleTech**
-*Profitable B2B SaaS · my own empire*
-`Nov 2019 → Now`
-
-Architected from zero. **Dozens of paying clients, tens of thousands of users.** A 5-person crew. AI agents handle the toil — humans handle the strategy.
-
-`Spring · React · GCP · Terraform`
+[Explore the projects →](https://hustletech.dev/)
 
 </td>
 </tr>
@@ -106,19 +84,19 @@ Architected from zero. **Dozens of paying clients, tens of thousands of users.**
 <td width="50%" valign="top">
 
 ### 🏛️ **Architecture That Outlives Its Maker**
-Microservices, event-driven systems, CDC/ETL pipelines, multi-tenant SaaS. I've built systems that survived Black Friday and Brazilian fiscal compliance. Your peak traffic does not scare me — *it merely confirms the design*.
+Microservices, modular monoliths, event-driven systems, CDC/ETL pipelines, and multi-tenant SaaS. Experience across banking, compliance, retail, travel, and insurtech. I translate business needs and technical constraints into systems teams can build and operate.
 
 ### 👥 **Command Without Cruelty**
-Led teams at Casas Bahia, Opah, Banco BV, KIS. I turn juniors into senior engineers — not by fear, but by clarity. Strong opinions, loosely held; disagree, then commit.
+Technical leadership at Via Varejo and KIS Solutions. At KIS, mentored 3 juniors who progressed to mid-level while reviewing PRs alongside senior architects. Clear direction, practical feedback, and shared ownership.
 
 ### 🤖 **AI-Native Engineering**
-Production LLM agent systems — not chatbot toys. Incident response, code review, vulnerability scanning, automated testing. The kind that actually works in prod, where the cost of failure is real.
+Built an LLM-assisted incident triage tool at FiServ and taught the team to use it. At HustleTech, apply agents internally to testing, architecture review, vulnerability scanning, and code quality. Human judgment stays in the loop.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚔️ **Polyglot Pragmatism**
-Java, Python, TS/Node, Go, Kotlin, C#. *The right blade for the right wound* — not the language I tweet about. 8+ stacks shipped to production.
+Java, Spring, Python, Node.js, Kotlin, and C# on the backend; React, Next.js, and React Native for full-stack delivery. The stack follows the problem, from banking integrations to web and mobile products.
 
 ### 🌍 **A Voice in Three Tongues**
 Fluent English, advanced Spanish, native Portuguese. Worked with teams in the US, Europe, Mexico, Argentina, Colombia. I speak engineer **and** stakeholder — and I bridge between them when neither will.
@@ -292,90 +270,53 @@ Because most "edge computing" tutorials end at *"blink an LED."* Mine will not.
 ---
  
 ## `📜 CHRONICLES OF THE JOURNEY 📜`
- 
+
 ```text
-YEAR  ROLE                              COMPANY                           DURATION  TIMELINE
-────  ────────────────────────────────  ───────────────────────────────   ────────  ──────────────────────────────
-2025  Senior Software Engineer          Thomson Reuters (via SinQia)       ongoing  ███████████████████░░░░░░░░░░░
-2024  Senior Software Engineer          FiServ (via Go2Win)                ongoing  ████████████████████████░░░░░░
-2022  Senior Software Engineer          KIS Solutions                        24 mo  ██████████████████████████████
-2021  Senior Software Engineer          Metal Toad                           14 mo  ██████████████████░░░░░░░░░░░░
-2021  Tech Lead                         Opah IT / Banco BV                   15 mo  ███████████████████░░░░░░░░░░░
-2020  Tech Lead                         Via Varejo (Casas Bahia)             11 mo  ██████████████░░░░░░░░░░░░░░░░
-2019  Senior Software Engineer          UOL                                   7 mo  █████████░░░░░░░░░░░░░░░░░░░░░
-2019  Senior Java Developer             CVC Corp                              6 mo  ████████░░░░░░░░░░░░░░░░░░░░░░
-2019  Founder / Architect               HustleTech (own fiefdom)            78 mo*  ██████████████████████████████
-2018  Software Developer                ITBAM                                 7 mo  █████████░░░░░░░░░░░░░░░░░░░░░
-2016  Software Developer                Tap4 Mobile                          21 mo  ██████████████████████████░░░░
-2016  Teacher / Instructor              Microlins                            18 mo  ██████████████████████░░░░░░░░
-2016  Support Analyst (Rio Olympics)    ATOS                                  2 mo  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-2014  IT Analyst                        Gibson, Inc.                         15 mo  ███████████████████░░░░░░░░░░░
-2013  System Analyst                    LG CNS                               11 mo  ██████████████░░░░░░░░░░░░░░░░
-2012  Innovation Analyst                Samsung Electronics                  12 mo  ███████████████░░░░░░░░░░░░░░░
-2011  Systems Analysis Intern           Philips                              11 mo  ██████████████░░░░░░░░░░░░░░░░
-2009  IT Support Intern                 Prefeitura de Manaus                 24 mo  ██████████████████████████████
- 
-* HustleTech is my own company — running in parallel to all roles above since 2019.
+PERIOD                  ROLE                                  COMPANY
+──────────────────────  ────────────────────────────────────  ─────────────────────────────
+Oct 2024 - Present      Senior Software Engineer, Operations  FiServ via Go2Win
+Sep 2022 - Sep 2024      Senior Software Engineer              KIS Solutions
+Jun 2021 - Aug 2022      Senior Software Engineer              MetalToad
+May 2020 - Apr 2021      Technical Lead                        Via Varejo via Opah
+Oct 2019 - May 2020      Senior Software Engineer              UOL via Opah
+Mar 2019 - Sep 2019      Senior Java Developer                 CVC via Opah
+Jul 2018 - Feb 2019      Software Developer                    Transire (ITBAM)
+Sep 2016 - Jun 2018      Software Developer                    Tap4 Mobile
 ```
 
 <details>
-<summary>📖 <b>The full chronicle</b> — what was built at every hold</summary>
+<summary>📖 <b>Earlier software engineering roles</b> · integrations, travel, retail, and mobile</summary>
 
 <br>
 
-### Senior Software Engineer · Thomson Reuters via SinQia · `Feb 2025 — Now`
-**Petrochemical Tax Systems** · Remote
-Built **SCANC from scratch** — centralized fiscal obligation engine. Raw data import from Firebird, CDC + ETL in Python/Pandas, field-level versioning with full audit trail, Oracle PL/SQL SAFX tax rules. End-to-end processing in **under 12 seconds**. Event-driven workflows with AWS Lambda/SQS/SNS. Applied LLM tooling for architecture review and code generation.
+### Senior Software Engineer · UOL via Opah · `Oct 2019 - May 2020`
 
-### Senior Software Engineer · FiServ via Go2Win · `Oct 2024 — Now`
-**Banking & Financial Compliance** · Remote
-Built **AI-powered incident intelligence system** — LLM agents generate optimized Splunk queries, cross-reference curated incident history, surface past RCAs instantly. Within 3 months most recurring incidents resolve near-automatically.
-Investigate full transaction stack end-to-end: Apigee → load balancer → NGINX → OpenShift/PCF → Java APIs → VMX mainframe. CI/CD via Jenkins + Harness, quality gates via SonarQube + Fortify.
+**São Paulo, Brazil**  
+Supported payment services, UOL Mail, and online antivirus and antifraud products. Built and maintained Java and Apache Camel integrations, working with Kotlin, Quarkus, and TDD.
 
-### Senior Software Engineer · KIS Solutions · `Sep 2022 — Sep 2024`
-**Cross-industry Software Delivery** · Washington, USA (Remote)
-Team of 8 engineers across multiple client projects. Provided technical direction, reviewed PRs, enforced quality standards, supported architectural decisions alongside senior architects. Java, Python, Node.js, React, React Native (iOS + Android). Built CDC and ETL pipelines with Node.js and Next.js.
+### Senior Java Developer · CVC via Opah · `Mar 2019 - Sep 2019`
 
-### Senior Software Engineer · Metal Toad · `Jun 2021 — Aug 2022`
-**Multi-client Software Delivery** · Oregon, USA (Remote)
-Delivered projects for multiple US clients across industries. Java, Python, React, C#, Node.js. Direct client work — requirements gathering, technical solution design, delivery across concurrent projects.
+**São Paulo, Brazil**  
+Built the Java/Spring backend for airline package sales. An ETL/Kafka pipeline synchronized a saturated legacy Oracle database with MongoDB instances, directing frequent reads to MongoDB while retaining writes in Oracle.
 
-### Tech Lead · Opah IT (Banco BV) · `Apr 2021 — Jul 2022`
-Java, Spring, Redis, PostgreSQL, MongoDB. Engineered financial systems, removed technical roadblocks, kept the team shipping.
+### Software Developer · Transire (ITBAM) · `Jul 2018 - Feb 2019`
 
-### Senior Software Engineer · Banco BV · `Apr 2021 — Nov 2021`
-Java, Spring Boot, Apache Camel. Built backend systems that survived traffic spikes and improved system reliability.
+**São Paulo, Brazil**  
+Developed **PedeJa**, a food-ordering and delivery platform in Java/Spring, and **Ghost Market**, a checkout-free store using Node.js and RFID to bill customers as they walked out.
 
-### Tech Lead · Via Varejo (Casas Bahia) · `May 2020 — Apr 2021`
-Node.js, Java Spring, Azure, MongoDB, Redis, Oracle, DB2. Led teams through CI/CD overhaul, microservices migration with clean architecture, complex multi-database systems.
+### Software Developer · Tap4 Mobile · `Sep 2016 - Jun 2018`
 
-### Senior Software Engineer · UOL · `Oct 2019 — May 2020`
-Java 8 + Kotlin, Quarkus, Apache Camel, TDD with Spock. Production systems that didn't catch fire.
+**São Paulo, Brazil**  
+Integrated CRM data for an events app, segmenting customers by age, peak days, and payment method in Angular 2 dashboards. Built incident-monitoring alert screens and an Android app for Musashi.
 
-### Senior Java Developer · CVC via Opah · `Mar 2019 — Sep 2019`
-Java Spring microservices at scale. Kafka, ELK, Jenkins, Oracle, MongoDB. Travel industry traffic — bursty, ruthless, unforgiving.
-
-### Software Developer · ITBAM · `Jul 2018 — Feb 2019`
-Java Spring backend + Android mobile for a food delivery platform.
-
-### Software Developer · Tap4 Mobile · `Sep 2016 — Jun 2018`
-PHP, Node.js, Java, Android, Objective-C. Full-stack across web and mobile.
-
-### Teacher/Instructor · Microlins · `Jun 2016 — Dec 2017`
-Turned beginners into devs who could actually ship. *Every Master was once an Apprentice.*
-
-### Support Analyst · Atos · `Jun 2016 — Aug 2016`
-On-the-ground tech support for the **Rio 2016 Olympics**. Nothing exploded — *which, in retrospect, was the achievement*.
-
-### IT Support Intern · Prefeitura de Manaus · `May 2009 — May 2011`
-Where it all began. The first holocron was opened.
+</details>
 
 ---
 
 ### 🎓 Training of the Order
 
-**B.Sc. Computer Science** — Universidade Estácio, São Paulo
-`Jan 2023 — Dec 2026` · Algorithms, data structures, OS, networks, software engineering. Research focus on AI/ML for practical applications.
+**B.Sc. Computer Science** · Universidade Estácio, São Paulo  
+`Jan 2023 - Jun 2026` · Algorithms, data structures, operating systems, computer networks, and software engineering. Built applications in Java, Python, and C++.
 
 ### 🎤 Public Doctrine (Speaking)
 
@@ -388,14 +329,12 @@ Where it all began. The first holocron was opened.
 - 🇺🇸 **English** — Fluent (interviews, presentations, negotiations with US/EU teams)
 - 🇪🇸 **Spanish** — Advanced (client work with Mexico, Argentina, Colombia)
 
-</details>
-
 ---
 
 ## `📜 SCROLLS & TRANSMISSIONS 📜`
 
 > 🩸 **The next phase of the doctrine: writing in public.**
-> *Architecting LLM agents for production · Building profitable SaaS as a solo founder · The boring engineering decisions that actually matter*
+> *LLM-assisted engineering · Building personal products as a solopreneur · The boring engineering decisions that actually matter*
 
 <div align="center">
 
@@ -462,29 +401,34 @@ Where it all began. The first holocron was opened.
 
 > *"Power, when properly forged, is indistinguishable from competence."*
 
-### Open to three kinds of pact:
+### Focused on a full-time Senior Software Engineer role
+
+I bring hands-on delivery, technical leadership, and experience across the full transaction stack. I am building toward a **Senior Software Architect** career through complex projects and continued learning.
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 🩸
-**Co-founder**
-Technical co-founder for an early-stage company solving a real problem. *Equity over salary, mission over ego.*
+**Backend Engineering**
+
+Java, Spring, Python, APIs, messaging, and data integration for complex business systems.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### ⚔️
-**CTO / VP Engineering**
-At a small-to-medium company ready to scale architecture and team. *I take the wheel — you keep the vision.*
+**Full-Stack Delivery**
+
+React, Next.js, and React Native, connected to reliable backend services and delivery pipelines.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 🏛️
-**Staff / Principal Engineer**
-At a product-led company where I can shape technical direction. *I shape the system. The system shapes the future.*
+**Technical Leadership**
+
+Translate stakeholder needs, guide implementation, review code, and mentor engineers alongside the team.
 
 </td>
 </tr>
@@ -499,6 +443,6 @@ At a product-led company where I can shape technical direction. *I shape the sys
 
 <br>
 
-<sub><i>If you would build an empire worth building — let us speak.</i></sub>
+<sub><i>Complex systems. Clear ownership. Software that earns its place in production.</i></sub>
 
 </div>
