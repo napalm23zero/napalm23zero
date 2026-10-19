@@ -249,15 +249,15 @@ Writing about LLM-assisted engineering, personal products, and the engineering d
 <img src="https://img.shields.io/github/followers/napalm23zero?style=flat-square&color=9D2933&labelColor=0d1117&label=followers" alt="GitHub followers" />
 </p>
 
-### Historical snapshots & developer folklore
+### Usage snapshots & developer folklore
 
-Languages cover the last five years across roles. Commit times and operating systems retain the historical snapshot; the coffee, gaming, and debugging counters are developer folklore.
+Languages cover the last five years across roles; commit times retain the historical snapshot. Operating-system use is a current estimate. The coffee, gaming, and debugging counters are developer folklore.
 
 <p align="center">
 <img src="assets/holocrons-languages.svg" width="400" alt="Language snapshot: Java 32%, Python 17%, TypeScript 13%, JavaScript and SQL 9% each, Kotlin 6%, Go 5%, Bash 4%, Groovy and C# 3%, other 2%." />
 <img src="assets/holocrons-rhythm.svg" width="400" alt="Commit time snapshot: dawn 26.8%, morning 13.1%, afternoon 19.6%, evening 24%, night 23.5%." />
 <br>
-<img src="assets/holocrons-systems.svg" width="400" alt="Operating system snapshot: Linux 64%, Windows 20.4%, macOS 15.4%." />
+<img src="assets/holocrons-systems.svg" width="400" alt="Estimated operating system use: Linux 38%, macOS 39%, Windows 23%." />
 <img src="assets/holocrons-personal.svg" width="400" alt="Developer folklore: coffee, gaming, sleep deprivation, StackOverflow, bugs, debugging, and one very close call with rm." />
 </p>
 
