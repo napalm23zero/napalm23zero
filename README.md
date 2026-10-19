@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
-<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Let%27s%20talk%20engineering"><img src="assets/talk-engineering.svg" width="280" alt="Talk engineering. Architecture, systems, APIs, LLM-assisted engineering, and software tradeoffs. Let's exchange ideas." /></a>
-<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Senior%20engineering%20opportunity"><img src="assets/hire-an-engineer.svg" width="280" alt="Hire an engineer. Senior engineering, hands-on delivery, technical leadership, and meaningful ownership. Focused on a full-time role." /></a>
-<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Technical%20cofounder%20conversation"><img src="assets/technical-cofounder.svg" width="280" alt="Find a technical cofounder. Talk product, architecture, ownership, and partnership expectations for a real problem worth solving." /></a>
+<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Let%27s%20talk%20engineering"><img src="assets/talk-engineering.svg" width="270" alt="Talk engineering. Architecture, systems, APIs, LLM-assisted engineering, and software tradeoffs. Let's exchange ideas." /></a>
+<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Senior%20engineering%20opportunity"><img src="assets/hire-an-engineer.svg" width="270" alt="Hire an engineer. Senior engineering, hands-on delivery, technical leadership, and meaningful ownership. Focused on a full-time role." /></a>
+<a href="mailto:rodrigo.dantas@hustletech.dev?subject=Technical%20cofounder%20conversation"><img src="assets/technical-cofounder.svg" width="270" alt="Find a technical cofounder. Talk product, architecture, ownership, and partnership expectations for a real problem worth solving." /></a>
 </p>
 
 ## About / the engineer behind the systems
