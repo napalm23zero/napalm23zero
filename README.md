@@ -13,7 +13,7 @@
 
 <table width="100%">
 <tr>
-<td width="9999"><img src="assets/companies/fiserv.svg" width="32" height="32" alt="FiServ logo" /> &nbsp; <strong>FiServ</strong> · Senior Software Engineer, Operations <sub>· via Go2Win</sub> <sub>· Oct 2024 - Present</sub><br />
+<td width="9999"><img src="assets/companies/fiserv.svg" width="32" height="32" alt="Fiserv logo" /> &nbsp; <strong>Fiserv</strong> · Senior Software Engineer, Operations <sub>· via Go2Win</sub> <sub>· Oct 2024 - Present</sub><br />
 <sub>Banking and compliance APIs, incident investigation and LLM-assisted triage · Java · Python · Splunk · OpenShift</sub></td>
 </tr>
 <tr>
@@ -25,11 +25,15 @@
 <sub>Software for US clients and event-driven integrations across services · Java/Spring · Python · React · RabbitMQ</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/via-varejo.svg" width="32" height="32" alt="Via Varejo (Casas Bahia) logo" /> &nbsp; <strong>Via Varejo (Casas Bahia)</strong> · Technical Lead <sub>· via Opah</sub> <sub>· May 2020 - Apr 2021</sub><br />
+<td width="9999"><img src="assets/companies/banco-bv.svg" width="32" height="32" alt="Banco BV logo" /> &nbsp; <strong>Banco BV</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Apr 2021 - May 2021</sub><br />
+<sub>Backend and integration services for a retail bank, on shared banking infrastructure · Java/Spring · Apache Camel · Redis · PostgreSQL</sub></td>
+</tr>
+<tr>
+<td width="9999"><img src="assets/companies/via-varejo.svg" width="32" height="32" alt="Via Varejo (Casas Bahia) logo" /> &nbsp; <strong>Via Varejo (Casas Bahia)</strong> · Technical Lead <sub>· May 2020 - Apr 2021</sub><br />
 <sub>Led digital insurance embedded in retail checkout, from issuance to signatures · Java/Spring · Node.js · MongoDB · Azure</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/uol.svg" width="32" height="32" alt="UOL logo" /> &nbsp; <strong>UOL</strong> · Senior Software Engineer <sub>· via Opah</sub> <sub>· Oct 2019 - May 2020</sub><br />
+<td width="9999"><img src="assets/companies/uol.svg" width="32" height="32" alt="UOL logo" /> &nbsp; <strong>UOL</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Oct 2019 - May 2020</sub><br />
 <sub>Payment, antifraud and subscription services with Java and Camel integrations · Java · Kotlin · Quarkus · Apache Camel</sub></td>
 </tr>
 <tr>
