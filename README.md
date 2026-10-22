@@ -5,7 +5,7 @@
 
 <sub>São Paulo · GMT-3 · Portuguese native · English fluent · Spanish advanced</sub>
 
-[Experience](#experience) · [Projects](#projects) · [Engineering](#engineering) · [HustleTech](#hustletech) · [Education](#education--speaking) · [Connect](#connect) · [Holocrons](#holocrons--by-the-numbers)
+[Experience](#experience) · [Projects](#user-content-projects) · [Engineering](#user-content-engineering) · [HustleTech](#user-content-hustletech) · [Education](#user-content-education--speaking) · [Connect](#user-content-connect) · [Holocrons](#user-content-holocrons--by-the-numbers)
 
 ## Experience
 
@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-## Projects
+<h2><a name="projects"></a><img src="assets/section-projects.svg" width="760" alt="Projects" /></h2>
 
 Code, experiments and roadmap. Repository links include implementation details.
 
@@ -85,7 +85,7 @@ Code, experiments and roadmap. Repository links include implementation details.
 </td></tr>
 </table>
 
-## Engineering
+<h2><a name="engineering"></a><img src="assets/section-engineering.svg" width="760" alt="Engineering" /></h2>
 
 Architecture shaped by constraints: modular monoliths, microservices, event-driven systems, CDC/ETL and multi-tenant SaaS. Hands-on leadership with teams across the Americas and Europe. Coding assistants support the work; engineering judgment stays with me.
 
@@ -100,9 +100,9 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 <tr><td><sub><strong>Systems &amp; IoT</strong></sub></td><td><img src="assets/technologies/45.svg" width="30" height="30" alt="Linux" title="Linux" /> <img src="assets/technologies/46.svg" width="30" height="30" alt="Ubuntu" title="Ubuntu" /> <img src="assets/technologies/47.svg" width="30" height="30" alt="Arch Linux" title="Arch Linux" /> <img src="assets/technologies/48.svg" width="30" height="30" alt="Debian" title="Debian" /> <img src="assets/technologies/49.svg" width="30" height="30" alt="Raspberry Pi" title="Raspberry Pi" /> <img src="assets/technologies/50.svg" width="30" height="30" alt="Arduino / ESP32" title="Arduino / ESP32" /></td></tr>
 </table>
 
-## HustleTech
+<h2><a name="hustletech"></a><img src="assets/hustletech-heading.svg" width="760" alt="HustleTech" /></h2>
 
-<img src="assets/hustletech-heading.svg" width="760" alt="From problem to production." />
+**From problem to production.**
 
 **Founder & sole engineer · 2016 - Present.** I start with the problem, decide what is worth building and own the path from architecture to operations. At HustleTech, meetings between departments are quick. I just switch tabs.
 
@@ -116,9 +116,9 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 <sub>Java/Spring · React & React Native · GCP Cloud Run · PostgreSQL · Redis · Terraform · GitHub Actions</sub>  
 **[Inside HustleTech →](https://hustletech.dev/about)** · [Products & partnerships →](https://hustletech.dev/studio)
 
-## Education & speaking
+<h2><a name="education--speaking"></a><img src="assets/education-heading.svg" width="760" alt="Education &amp; speaking" /></h2>
 
-<img src="assets/education-heading.svg" width="760" alt="Learn. Build. Share." />
+**Learn. Build. Share.**
 
 <table>
 <tr><td><strong>Education</strong><br /><sub>2023 - 2026</sub></td><td><strong>B.Sc. Computer Science</strong> · Universidade Estácio, São Paulo<br /><sub>Jan 2023 - Dec 2026 (expected) · Building toward Senior Software Architect</sub></td></tr>
@@ -128,12 +128,12 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 
 [Education, languages & certificates →](https://hustletech.dev/about-me#foundations)
 
-## Connect
+<h2><a name="connect"></a><img src="assets/section-connect.svg" width="760" alt="Connect" /></h2>
 
 Engineering roles, technical conversations and cofounder discussions.  
 **[Email](mailto:rodrigo.dantas@hustletech.dev)** · **[Book a call](https://calendar.app.google/R4jWYVHJgZodVK147)** · [LinkedIn](https://www.linkedin.com/in/dantas-rodrigo) · [Website](https://hustletech.dev/) · [Medium](https://medium.com/@napalm23zero) · [Dev.to](https://dev.to/napalm23zero) · [X](https://twitter.com/napalm23zero)
 
-## Holocrons / by the numbers
+<h2><a name="holocrons--by-the-numbers"></a><img src="assets/section-holocrons.svg" width="760" alt="Holocrons / by the numbers" /></h2>
 
 <div align="center">
 
