@@ -45,7 +45,7 @@
 <sub>Food delivery and checkout-free retail products, including RFID billing · Java/Spring · Node.js · Angular · RFID</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/tap4.svg" width="32" height="32" alt="Tap4 Mobile logo" /> &nbsp; <strong>Tap4 Mobile</strong> · Software Developer <sub>· Sep 2016 - Jun 2018</sub><br />
+<td width="9999"><img src="assets/companies/tap4.svg" width="32" height="32" alt="Tap4 Mobile logo" /> &nbsp; <strong>Tap4 Mobile</strong> · Software Developer (Junior to Mid-level) <sub>· Sep 2016 - Jun 2018</sub><br />
 <sub>CRM dashboards, incident-monitoring screens and Android applications · PHP · Node.js · Java · Angular</sub></td>
 </tr>
 </table>
