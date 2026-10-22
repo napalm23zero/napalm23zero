@@ -14,15 +14,15 @@
 <table width="100%">
 <tr>
 <td width="9999"><img src="assets/companies/fiserv.svg" width="32" height="32" alt="Fiserv logo" /> &nbsp; <strong>Fiserv</strong> · Senior Software Engineer, Operations <sub>· via Go2Win</sub> <sub>· Oct 2024 - Present</sub><br />
-<sub>Banking and compliance APIs, incident investigation and LLM-assisted triage · Java · Python · Splunk · OpenShift</sub></td>
+<sub>COBOL mainframe integrations at 1M+ requests/h, 688 production incidents in 4 months for 12 LATAM banks, LLM triage from ~1h to ~20min · Java · Python · RabbitMQ · Splunk · OpenShift</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/kis.svg" width="32" height="32" alt="KIS Solutions logo" /> &nbsp; <strong>KIS Solutions</strong> · Senior Software Engineer <sub>· Sep 2022 - Sep 2024</sub><br />
-<sub>Full-stack web and mobile delivery, technical direction and CDC/ETL pipelines · Java · Python · React Native · PostgreSQL</sub></td>
+<sub>5 projects for 5 clients, mentored 5 junior and 3 mid-level engineers, plate recognition (ALPR) for Spaces, CDC/ETL from 7 sources · Java · Python · React Native · Kafka · PostgreSQL</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/metal-toad.svg" width="32" height="32" alt="Metal Toad logo" /> &nbsp; <strong>Metal Toad</strong> · Senior Software Engineer <sub>· Jun 2021 - Aug 2022</sub><br />
-<sub>Software for US clients and event-driven integrations across services · Java/Spring · Python · React · RabbitMQ</sub></td>
+<sub>4 projects for 4 US clients, an iOS and Android app, serverless Python on AWS Lambda · Java · Python · React Native · C# · AWS Lambda</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/banco-bv.svg" width="32" height="32" alt="Banco BV logo" /> &nbsp; <strong>Banco BV</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Apr 2021 - May 2021</sub><br />
@@ -34,14 +34,14 @@
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/uol.svg" width="32" height="32" alt="UOL logo" /> &nbsp; <strong>UOL</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Oct 2019 - May 2020</sub><br />
-<sub>Payment, antifraud and subscription services with Java and Camel integrations · Java · Kotlin · Quarkus · Apache Camel</sub></td>
+<sub>Java and Kotlin backend for a major media and internet company, test-first with Spock · Java · Kotlin · Quarkus · Apache Camel</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/cvc.svg" width="32" height="32" alt="CVC logo" /> &nbsp; <strong>CVC</strong> · Senior Java Developer <sub>· via Opah</sub> <sub>· Mar 2019 - Sep 2019</sub><br />
 <sub>Airline-sales backend and Kafka pipelines from Oracle to MongoDB · Java/Spring · Kafka · Oracle · MongoDB</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/transire.svg" width="32" height="32" alt="Transire (ITBAM) logo" /> &nbsp; <strong>Transire (ITBAM)</strong> · Software Developer <sub>· Jul 2018 - Feb 2019</sub><br />
+<td width="9999"><img src="assets/companies/transire.svg" width="32" height="32" alt="Transire (ITBAM) logo" /> &nbsp; <strong>Transire (ITBAM)</strong> · Software Developer III <sub>· Jul 2018 - Feb 2019</sub><br />
 <sub>Food delivery and checkout-free retail products, including RFID billing · Java/Spring · Node.js · Angular · RFID</sub></td>
 </tr>
 <tr>
@@ -52,17 +52,9 @@
 
 <h2><a name="projects"></a><img src="assets/section-projects.svg" width="100%" alt="Projects" /></h2>
 
-Code, experiments and roadmap. Repository links include implementation details.
+Roadmap. Each repository gets linked here once it is published.
 
 <table width="100%">
-<tr><td width="9999">
-<strong><a href="https://github.com/napalm23zero/llm-gateway">LLM Gateway ↗</a></strong> <sub>· Public experiment · Benchmarks in progress</sub><br />
-<sub>Semantic caching with correctness safeguards, streaming, routing and fallback · Python · FastAPI · PostgreSQL / pgvector · Redis · SSE</sub>
-</td></tr>
-<tr><td width="9999">
-<strong><a href="https://github.com/napalm23zero/lab-event-driven-orders-platform">Event-Driven Orders Platform ↗</a></strong> <sub>· Public lab</sub><br />
-<sub>SAGA, Outbox and CDC for order processing, with observability and AWS infrastructure · Kafka · Debezium · PostgreSQL · OpenTelemetry · Grafana · Terraform</sub>
-</td></tr>
 <tr><td>
 <strong>Distributed Systems Playground</strong> <sub>· In progress</sub><br />
 <sub>Reference architectures for event sourcing, CQRS and saga orchestration · Java · Spring · Kafka · PostgreSQL</sub>
@@ -83,7 +75,7 @@ Code, experiments and roadmap. Repository links include implementation details.
 
 <h2><a name="engineering"></a><img src="assets/section-engineering.svg" width="100%" alt="Engineering" /></h2>
 
-Architecture shaped by constraints: modular monoliths, microservices, event-driven systems, CDC/ETL and multi-tenant SaaS. Hands-on leadership with teams across the Americas and Europe. Coding assistants support the work; engineering judgment stays with me.
+Architecture shaped by constraints: modular monoliths, microservices, event-driven systems, CDC/ETL and multi-tenant SaaS. Hands-on technical direction with teams in Brazil and the US. Coding assistants support the work; engineering judgment stays with me.
 
 <sub>Core stack: Java · Spring · Python.</sub>
 
@@ -117,9 +109,9 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 **Learn. Build. Share.**
 
 <table width="100%">
-<tr><td><strong>Education</strong><br /><sub>2023 - 2026</sub></td><td width="9999"><strong>B.Sc. Computer Science</strong> · Universidade Estácio, São Paulo<br /><sub>Jan 2023 - Dec 2026 (expected) · Building toward Senior Software Architect</sub></td></tr>
-<tr><td><strong>Talk</strong><br /><sub>2021</sub></td><td width="9999"><strong>MongoDB: What Problems Does It Actually Solve?</strong><br /><sub>Universidade Estácio · Choosing a database around the problem</sub></td></tr>
-<tr><td><strong>Talk</strong><br /><sub>2020</sub></td><td width="9999"><strong>Best Practices in RESTful API Development with Node.js and Swagger</strong><br /><sub>Universidade Estácio · API design, implementation and documentation</sub></td></tr>
+<tr><td><strong>Education</strong><br /><sub>2022 - 2026</sub></td><td width="9999"><strong>B.Sc. Computer Science</strong> · Universidade Estácio, São Paulo<br /><sub>Jun 2022 - Jun 2026 · Computer Scientist</sub></td></tr>
+<tr><td><strong>Talk</strong><br /><sub>2021</sub></td><td width="9999"><strong>MongoDB: When Is It Really Useful?</strong><br /><sub>Universidade Estácio · Choosing a database around the problem</sub></td></tr>
+<tr><td><strong>Talk</strong><br /><sub>2020</sub></td><td width="9999"><strong>Best Practices in Node.js RESTful API Development</strong><br /><sub>Universidade Estácio · API design, implementation and documentation</sub></td></tr>
 </table>
 
 [Education, languages & certificates →](https://hustletech.dev/about-me#foundations)
