@@ -151,7 +151,7 @@ Engineering roles, technical conversations and cofounder discussions.
 
 <p align="center">
 <img src="assets/holocrons-languages.svg" width="49.5%" alt="Language snapshot: Java 32%, Python 17%, TypeScript 13%, JavaScript and SQL 9% each, Kotlin 6%, Go 5%, Bash 4%, Groovy and C# 3%, other 2%." />
-<img src="assets/holocrons-rhythm.svg" width="49.5%" alt="Commit time snapshot: dawn 26.8%, morning 13.1%, afternoon 19.6%, evening 24%, night 23.5%." />
+<img src="assets/holocrons-rhythm.svg" width="49.5%" alt="Commit time snapshot: Dawn 4 AM–8 AM 26.8%, Morning 8 AM–12 PM 13.1%, Afternoon 12 PM–6 PM 19.6%, Evening 6 PM–10 PM 24%, Night 10 PM–4 AM 23.5%." />
 <br>
 <img src="assets/holocrons-systems.svg" width="49.5%" alt="Estimated operating system use: Linux 38%, macOS 39%, Windows 23%." />
 <img src="assets/holocrons-personal.svg" width="49.5%" alt="Developer folklore: coffee, gaming, sleep deprivation, StackOverflow, bugs, debugging, and one very close call with rm." />
