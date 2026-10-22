@@ -130,14 +130,14 @@ Engineering roles, technical conversations and cofounder discussions.
 <div align="center">
 
 <a href="https://github.com/napalm23zero">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=napalm23zero&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=111111&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&ring_color=ff0000&disable_animations=true&border_radius=0" alt="GitHub stats"/><br />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=napalm23zero&layout=compact&hide_border=true&bg_color=111111&title_color=ff3b3b&text_color=ffffff&langs_count=10&disable_animations=true&border_radius=0" alt="Top languages"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=napalm23zero&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=111111&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&ring_color=ff0000&disable_animations=true&border_radius=0&card_width=440&line_height=29&custom_title=GitHub%20activity" alt="GitHub stats"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=napalm23zero&layout=compact&hide_border=true&bg_color=111111&title_color=ff3b3b&text_color=ffffff&langs_count=10&disable_animations=true&border_radius=0&card_width=440" alt="Top languages"/>
 </a>
 
 <br>
 
 <a href="https://git.io/streak-stats">
-  <img width="100%" src="https://streak-stats.demolab.com?user=napalm23zero&hide_border=true&background=111111&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=b3b3b3&stroke=333333&currStreakNum=ffffff&sideNums=ffffff&disable_animations=true&border_radius=0" alt="GitHub streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=napalm23zero&hide_border=true&background=111111&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=b3b3b3&stroke=333333&currStreakNum=ffffff&sideNums=ffffff&disable_animations=true&border_radius=0&card_width=900&card_height=170" alt="GitHub streak"/>
 </a>
 
 </div>
@@ -150,11 +150,11 @@ Engineering roles, technical conversations and cofounder discussions.
 <sub>Languages: five-year snapshot · OS: current estimate · Coffee, gaming and debugging: developer folklore. Historical commit-time percentages total 107% and are preserved as recorded.</sub>
 
 <p align="center">
-<img src="assets/holocrons-languages.svg" width="100%" alt="Language snapshot: Java 32%, Python 17%, TypeScript 13%, JavaScript and SQL 9% each, Kotlin 6%, Go 5%, Bash 4%, Groovy and C# 3%, other 2%." /><br />
-<img src="assets/holocrons-rhythm.svg" width="100%" alt="Commit time snapshot: dawn 26.8%, morning 13.1%, afternoon 19.6%, evening 24%, night 23.5%." />
+<img src="assets/holocrons-languages.svg" width="49.5%" alt="Language snapshot: Java 32%, Python 17%, TypeScript 13%, JavaScript and SQL 9% each, Kotlin 6%, Go 5%, Bash 4%, Groovy and C# 3%, other 2%." />
+<img src="assets/holocrons-rhythm.svg" width="49.5%" alt="Commit time snapshot: dawn 26.8%, morning 13.1%, afternoon 19.6%, evening 24%, night 23.5%." />
 <br>
-<img src="assets/holocrons-systems.svg" width="100%" alt="Estimated operating system use: Linux 38%, macOS 39%, Windows 23%." /><br />
-<img src="assets/holocrons-personal.svg" width="100%" alt="Developer folklore: coffee, gaming, sleep deprivation, StackOverflow, bugs, debugging, and one very close call with rm." />
+<img src="assets/holocrons-systems.svg" width="49.5%" alt="Estimated operating system use: Linux 38%, macOS 39%, Windows 23%." />
+<img src="assets/holocrons-personal.svg" width="49.5%" alt="Developer folklore: coffee, gaming, sleep deprivation, StackOverflow, bugs, debugging, and one very close call with rm." />
 </p>
 
 <p align="center"><sub>Stay curious. Own the tradeoffs. Ship things that matter.</sub></p>
