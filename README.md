@@ -13,40 +13,40 @@
 
 <table width="100%">
 <tr>
-<td width="9999"><img src="assets/companies/fiserv.svg" width="32" height="32" alt="Fiserv logo" /> &nbsp; <strong>Fiserv</strong> · Senior Software Engineer, Operations <sub>· via Go2Win</sub> <sub>· Oct 2024 - Present</sub><br />
-<sub>COBOL mainframe integrations at 1M+ requests/h, 688 production incidents in 4 months for 12 LATAM banks, LLM triage from about 1 hour to 20 minutes · Java · Python · RabbitMQ · Splunk · OpenShift</sub></td>
+<td width="9999"><img src="assets/companies/fiserv.svg" width="32" height="32" alt="Fiserv logo" /> &nbsp; <strong>Fiserv</strong> · Senior Software Engineer <sub>· via Go2Win</sub> <sub>· Oct 2024 - Present</sub><br />
+<sub>AI-assisted incident investigation: personal average triage from ~60 to ~20 minutes, 5 to 14 incidents resolved per day, under 3% reopened (ServiceNow); Python automation for fiscal obligations · Java · Python · Splunk · OpenShift</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/kis.svg" width="32" height="32" alt="KIS Solutions logo" /> &nbsp; <strong>KIS Solutions</strong> · Senior Software Engineer <sub>· Sep 2022 - Sep 2024</sub><br />
-<sub>5 projects for 5 clients, mentored 5 junior and 3 mid-level engineers, plate recognition (ALPR) for Spaces, CDC/ETL from 7 sources · Java · Python · React Native · Kafka · PostgreSQL</sub></td>
+<sub>Backend, web and mobile for US clients; mentored 3 junior engineers who progressed to mid-level on an 8-engineer team · Java · Python · Node.js · React · React Native</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/metal-toad.svg" width="32" height="32" alt="Metal Toad logo" /> &nbsp; <strong>Metal Toad</strong> · Senior Software Engineer <sub>· Jun 2021 - Aug 2022</sub><br />
-<sub>4 projects for 4 US clients, an iOS and Android app, serverless Python on AWS Lambda · Java · Python · React Native · C# · AWS Lambda</sub></td>
+<sub>Co-developed and launched a Salesforce integration with another engineer for CRM-triggered SMS, email and webhooks; delivered software for US clients · Apex · RabbitMQ · Java/Spring · Python · React</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/banco-bv.svg" width="32" height="32" alt="Banco BV logo" /> &nbsp; <strong>Banco BV</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Apr 2021 - May 2021</sub><br />
-<sub>Backend and integration services for a retail bank, on shared banking infrastructure · Java/Spring · Apache Camel · Redis · PostgreSQL</sub></td>
+<td width="9999"><img src="assets/companies/banco-bv.svg" width="32" height="32" alt="Banco BV logo" /> &nbsp; <strong>Banco BV</strong> · Technical Lead <sub>· via Opah</sub> <sub>· Apr 2021 - Jul 2022</sub><br />
+<sub>Hands-on Tech Lead on a 12-person team building and launching a digital banking app; architecture, reviews, CI/CD and integrations · Java · React · React Native</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/via-varejo.svg" width="32" height="32" alt="Via Varejo (Casas Bahia) logo" /> &nbsp; <strong>Via Varejo (Casas Bahia)</strong> · Technical Lead <sub>· May 2020 - Apr 2021</sub><br />
-<sub>Led digital insurance embedded in retail checkout, from issuance to signatures · Java/Spring · Node.js · MongoDB · Azure</sub></td>
+<td width="9999"><img src="assets/companies/via-varejo.svg" width="32" height="32" alt="Via Varejo (Casas Bahia) logo" /> &nbsp; <strong>Via Varejo (Casas Bahia)</strong> · Technical Lead <sub>· via Opah</sub> <sub>· May 2020 - Apr 2021</sub><br />
+<sub>Led hands-on delivery of digital insurance checkout, customer scoring and omnichannel recommendations · Java · Angular · Kafka · Oracle · OpenShift</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/uol.svg" width="32" height="32" alt="UOL logo" /> &nbsp; <strong>UOL</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Oct 2019 - May 2020</sub><br />
-<sub>Java and Kotlin backend for a major media and internet company, test-first with Spock · Java · Kotlin · Quarkus · Apache Camel</sub></td>
+<sub>Backend features and integrations for UOL Mail and antivirus products, production support and reviews · Java · Kotlin · Quarkus · Apache Camel</sub></td>
 </tr>
 <tr>
-<td width="9999"><img src="assets/companies/cvc.svg" width="32" height="32" alt="CVC logo" /> &nbsp; <strong>CVC</strong> · Senior Java Developer <sub>· via Opah</sub> <sub>· Mar 2019 - Sep 2019</sub><br />
-<sub>Airline-sales backend and Kafka pipelines from Oracle to MongoDB · Java/Spring · Kafka · Oracle · MongoDB</sub></td>
+<td width="9999"><img src="assets/companies/cvc.svg" width="32" height="32" alt="CVC logo" /> &nbsp; <strong>CVC</strong> · Senior Software Developer <sub>· via Opah</sub> <sub>· Mar 2019 - Sep 2019</sub><br />
+<sub>Travel services and co-developed Kafka synchronization from Oracle to MongoDB · Java/Spring · Kafka · Oracle · MongoDB</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/transire.svg" width="32" height="32" alt="Transire (ITBAM) logo" /> &nbsp; <strong>Transire (ITBAM)</strong> · Software Developer III <sub>· Jul 2018 - Feb 2019</sub><br />
-<sub>Food delivery and checkout-free retail products, including RFID billing · Java/Spring · Node.js · Angular · RFID</sub></td>
+<sub>PedeJá and Ghost Market APIs and features, applying hexagonal architecture · Java/Spring · Node.js</sub></td>
 </tr>
 <tr>
 <td width="9999"><img src="assets/companies/tap4.svg" width="32" height="32" alt="Tap4 Mobile logo" /> &nbsp; <strong>Tap4 Mobile</strong> · Software Developer (Junior to Mid-level) <sub>· Sep 2016 - Jun 2018</sub><br />
-<sub>Promoted to mid-level after 4 months; CRM dashboards, incident-monitoring screens and Android applications · PHP · Node.js · Java · Angular</sub></td>
+<sub>Independently delivered a production issue-management platform for Musashi, from requirements to web and mobile development and support · PHP · Java · Android · Objective-C</sub></td>
 </tr>
 </table>
 
@@ -75,7 +75,7 @@ Roadmap. Each repository gets linked here once it is published.
 
 <h2><a name="engineering"></a><img src="assets/section-engineering.svg" width="100%" alt="Engineering" /></h2>
 
-Architecture shaped by constraints: modular monoliths, microservices, event-driven systems, CDC/ETL and multi-tenant SaaS. Hands-on technical direction with teams in Brazil and the US. Coding assistants support the work; engineering judgment stays with me.
+Architecture shaped by constraints: modular monoliths, microservices, event-driven and hexagonal systems, CDC/ETL and multi-tenant SaaS. Hands-on technical direction with teams in Brazil and the US. I use agentic development, agent harnesses, local LLMs, LLM gateways and context engineering; engineering judgment stays with me.
 
 <sub>Core stack: Java · Spring · Python.</sub>
 
@@ -92,13 +92,13 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 
 **From problem to production.**
 
-**Founder & sole engineer · 2016 - Present.** I start with the problem, decide what is worth building and own the path from architecture to operations. At HustleTech, meetings between departments are quick. I just switch tabs.
+**Founder & Software Architect · 2016 - Present.** I start with the problem, decide what is worth building and own the path from architecture to operations. At HustleTech, meetings between departments are quick. I just switch tabs.
 
 <sub>3 apps · 2 games · Built outside business hours alongside my engineering career</sub>
 
 <table width="100%">
 <tr><td><strong>Condo</strong><br /><sub>B2B · In development</sub></td><td width="9999">Condominium management, connecting operators and residents.<br /><sub>Multi-tenant SaaS · Tenant isolation · Plans and access control</sub></td></tr>
-<tr><td><strong>Ardha Arcana</strong><br /><sub>B2C · In development</sub></td><td width="9999">Tarot, learning and community in one product.<br /><sub>Single-tenant · User-centric entitlements · Shared platform foundation</sub></td></tr>
+<tr><td><strong>Arcanadore</strong><br /><sub>B2C · Consumer app</sub></td><td width="9999">Tarot and mysticism for learning and exploration.<br /><sub>React Native · Offline-first · Multilingual</sub></td></tr>
 </table>
 
 <sub>Java/Spring · React & React Native · GCP Cloud Run · PostgreSQL · Redis · Terraform · GitHub Actions</sub>  
@@ -109,7 +109,7 @@ Architecture shaped by constraints: modular monoliths, microservices, event-driv
 **Learn. Build. Share.**
 
 <table width="100%">
-<tr><td><strong>Education</strong><br /><sub>2022 - 2026</sub></td><td width="9999"><strong>B.Sc. Computer Science</strong> · Universidade Estácio, São Paulo<br /><sub>Jun 2022 - Jun 2026 · Computer Scientist</sub></td></tr>
+<tr><td><strong>Education</strong><br /><sub>2022 - 2026</sub></td><td width="9999"><strong>B.Sc. Computer Science</strong> · Universidade Estácio, São Paulo<br /><sub>Jun 2022 - Jun 2026 · Algorithms, data structures, operating systems, networks and software engineering; projects in Java, Python and C++</sub></td></tr>
 <tr><td><strong>Talk</strong><br /><sub>2021</sub></td><td width="9999"><strong>MongoDB: When Is It Really Useful?</strong><br /><sub>Universidade Estácio · Choosing a database around the problem</sub></td></tr>
 <tr><td><strong>Talk</strong><br /><sub>2020</sub></td><td width="9999"><strong>Best Practices in Node.js RESTful API Development</strong><br /><sub>Universidade Estácio · API design, implementation and documentation</sub></td></tr>
 </table>
